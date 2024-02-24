@@ -1,0 +1,3936 @@
+,user_id,movie_id,rating,like,movie title
+2,62,302,3,False,L.A. Confidential
+19,229,302,5,True,L.A. Confidential
+30,43,302,4,True,L.A. Confidential
+37,214,302,4,True,L.A. Confidential
+46,49,302,4,True,L.A. Confidential
+47,126,302,4,True,L.A. Confidential
+52,297,302,4,True,L.A. Confidential
+57,206,302,5,True,L.A. Confidential
+67,240,302,5,True,L.A. Confidential
+75,52,302,4,True,L.A. Confidential
+81,241,302,3,False,L.A. Confidential
+95,345,302,5,True,L.A. Confidential
+118,405,302,4,True,L.A. Confidential
+124,416,302,5,True,L.A. Confidential
+125,404,302,4,True,L.A. Confidential
+126,417,302,3,False,L.A. Confidential
+160,490,302,4,True,L.A. Confidential
+172,507,302,5,True,L.A. Confidential
+187,555,302,3,False,L.A. Confidential
+193,617,302,4,True,L.A. Confidential
+205,654,302,5,True,L.A. Confidential
+209,657,302,2,False,L.A. Confidential
+213,668,302,5,True,L.A. Confidential
+222,721,302,3,False,L.A. Confidential
+228,740,302,5,True,L.A. Confidential
+231,751,302,4,True,L.A. Confidential
+242,782,302,3,False,L.A. Confidential
+247,787,302,3,False,L.A. Confidential
+256,827,302,4,True,L.A. Confidential
+261,854,302,3,False,L.A. Confidential
+284,875,302,5,True,L.A. Confidential
+326,43,385,5,True,True Lies
+338,230,385,1,False,True Lies
+341,49,385,1,False,True Lies
+343,262,385,2,False,True Lies
+350,198,385,3,False,True Lies
+368,345,385,3,False,True Lies
+374,373,385,3,False,True Lies
+384,405,385,1,False,True Lies
+388,416,385,5,True,True Lies
+389,417,385,5,True,True Lies
+412,505,385,4,True,True Lies
+427,588,385,3,False,True Lies
+434,618,385,4,True,True Lies
+442,642,385,5,True,True Lies
+446,654,385,4,True,True Lies
+456,698,385,4,True,True Lies
+460,705,385,4,True,True Lies
+461,712,385,5,True,True Lies
+466,751,385,4,True,True Lies
+477,805,385,1,False,True Lies
+497,887,385,4,True,True Lies
+500,922,385,3,False,True Lies
+511,38,588,5,True,Beauty and the Beast
+535,128,588,5,True,Beauty and the Beast
+539,43,588,4,True,Beauty and the Beast
+548,230,588,5,True,Beauty and the Beast
+552,49,588,4,True,Beauty and the Beast
+553,262,588,4,True,Beauty and the Beast
+560,297,588,4,True,Beauty and the Beast
+562,253,588,5,True,Beauty and the Beast
+563,314,588,5,True,Beauty and the Beast
+574,159,588,2,False,Beauty and the Beast
+575,52,588,4,True,Beauty and the Beast
+583,345,588,3,False,Beauty and the Beast
+588,373,588,3,False,Beauty and the Beast
+597,405,588,2,False,Beauty and the Beast
+601,416,588,5,True,Beauty and the Beast
+602,417,588,3,False,Beauty and the Beast
+603,437,588,3,False,Beauty and the Beast
+619,505,588,5,True,Beauty and the Beast
+625,541,588,4,True,Beauty and the Beast
+630,588,588,4,True,Beauty and the Beast
+631,601,588,3,False,Beauty and the Beast
+633,618,588,4,True,Beauty and the Beast
+634,620,588,5,True,Beauty and the Beast
+639,642,588,5,True,Beauty and the Beast
+641,654,588,4,True,Beauty and the Beast
+645,679,588,3,False,Beauty and the Beast
+648,698,588,4,True,Beauty and the Beast
+652,711,588,4,True,Beauty and the Beast
+653,705,588,3,False,Beauty and the Beast
+654,712,588,4,True,Beauty and the Beast
+659,751,588,5,True,Beauty and the Beast
+663,764,588,5,True,Beauty and the Beast
+676,805,588,2,False,Beauty and the Beast
+685,849,588,5,True,Beauty and the Beast
+691,822,588,2,False,Beauty and the Beast
+701,887,588,4,True,Beauty and the Beast
+704,922,588,4,True,Beauty and the Beast
+729,128,322,2,False,Murder at 1600
+745,223,322,4,True,Murder at 1600
+746,126,322,3,False,Murder at 1600
+754,314,322,4,True,Murder at 1600
+758,304,322,4,True,Murder at 1600
+765,159,322,5,True,Murder at 1600
+778,324,322,4,True,Murder at 1600
+782,300,322,4,True,Murder at 1600
+793,372,322,3,False,Murder at 1600
+800,416,322,3,False,Murder at 1600
+801,417,322,3,False,Murder at 1600
+806,281,322,4,True,Murder at 1600
+808,35,322,3,False,Murder at 1600
+826,462,322,5,True,Murder at 1600
+831,525,322,2,False,Murder at 1600
+852,630,322,3,False,Murder at 1600
+862,679,322,3,False,Murder at 1600
+865,708,322,3,False,Murder at 1600
+868,721,322,4,True,Murder at 1600
+875,740,322,3,False,Murder at 1600
+881,732,322,3,False,Murder at 1600
+889,782,322,4,True,Murder at 1600
+896,805,322,2,False,Murder at 1600
+904,854,322,1,False,Murder at 1600
+917,907,322,5,True,Murder at 1600
+922,921,322,3,False,Murder at 1600
+960,223,333,4,True,"Game, The"
+961,126,333,2,False,"Game, The"
+966,36,333,4,True,"Game, The"
+968,253,333,2,False,"Game, The"
+970,206,333,4,True,"Game, The"
+987,159,333,5,True,"Game, The"
+991,258,333,2,False,"Game, The"
+993,52,333,4,True,"Game, The"
+1007,46,333,5,True,"Game, The"
+1010,345,333,3,False,"Game, The"
+1022,372,333,5,True,"Game, The"
+1028,416,333,4,True,"Game, The"
+1029,404,333,2,False,"Game, The"
+1034,281,333,3,False,"Game, The"
+1037,35,333,4,True,"Game, The"
+1053,490,333,3,False,"Game, The"
+1054,496,333,3,False,"Game, The"
+1064,507,333,4,True,"Game, The"
+1080,588,333,5,True,"Game, The"
+1106,668,333,3,False,"Game, The"
+1114,721,333,3,False,"Game, The"
+1118,735,333,4,True,"Game, The"
+1129,782,333,3,False,"Game, The"
+1134,787,333,3,False,"Game, The"
+1142,827,333,3,False,"Game, The"
+1145,854,333,3,False,"Game, The"
+1155,822,333,4,True,"Game, The"
+1164,907,333,5,True,"Game, The"
+1165,875,333,5,True,"Game, The"
+1174,925,333,3,False,"Game, The"
+1177,62,742,2,False,Ransom
+1183,38,742,5,True,Ransom
+1195,32,742,3,False,Ransom
+1216,128,742,3,False,Ransom
+1221,43,742,5,True,Ransom
+1224,203,742,3,False,Ransom
+1231,230,742,5,True,Ransom
+1237,223,742,3,False,Ransom
+1238,274,742,4,True,Ransom
+1241,270,742,2,False,Ransom
+1244,24,742,4,True,Ransom
+1246,297,742,3,False,Ransom
+1247,253,742,4,True,Ransom
+1251,314,742,4,True,Ransom
+1254,304,742,3,False,Ransom
+1262,159,742,2,False,Ransom
+1264,52,742,4,True,Ransom
+1271,324,742,5,True,Ransom
+1273,345,742,4,True,Ransom
+1276,348,742,4,True,Ransom
+1292,416,742,4,True,Ransom
+1293,417,742,2,False,Ransom
+1324,505,742,4,True,Ransom
+1327,525,742,3,False,Ransom
+1342,588,742,4,True,Ransom
+1347,620,742,5,True,Ransom
+1354,630,742,5,True,Ransom
+1355,642,742,5,True,Ransom
+1360,654,742,4,True,Ransom
+1367,674,742,5,True,Ransom
+1376,708,742,1,False,Ransom
+1382,734,742,4,True,Ransom
+1387,751,742,3,False,Ransom
+1396,764,742,3,False,Ransom
+1405,759,742,5,True,Ransom
+1409,805,742,3,False,Ransom
+1417,854,742,2,False,Ransom
+1424,872,742,4,True,Ransom
+1431,907,742,5,True,Ransom
+1442,939,742,5,True,Ransom
+1445,62,237,3,False,Jerry Maguire
+1494,128,237,4,True,Jerry Maguire
+1499,43,237,4,True,Jerry Maguire
+1505,203,237,3,False,Jerry Maguire
+1520,230,237,5,True,Jerry Maguire
+1528,223,237,5,True,Jerry Maguire
+1529,274,237,4,True,Jerry Maguire
+1530,262,237,3,False,Jerry Maguire
+1533,270,237,1,False,Jerry Maguire
+1538,24,237,4,True,Jerry Maguire
+1540,297,237,4,True,Jerry Maguire
+1541,198,237,2,False,Jerry Maguire
+1546,253,237,4,True,Jerry Maguire
+1550,314,237,5,True,Jerry Maguire
+1555,304,237,5,True,Jerry Maguire
+1564,159,237,3,False,Jerry Maguire
+1567,52,237,4,True,Jerry Maguire
+1584,345,237,4,True,Jerry Maguire
+1587,342,237,4,True,Jerry Maguire
+1588,348,237,4,True,Jerry Maguire
+1600,376,237,3,False,Jerry Maguire
+1612,416,237,3,False,Jerry Maguire
+1619,437,237,4,True,Jerry Maguire
+1624,439,237,5,True,Jerry Maguire
+1641,490,237,1,False,Jerry Maguire
+1642,434,237,5,True,Jerry Maguire
+1647,462,237,5,True,Jerry Maguire
+1653,505,237,3,False,Jerry Maguire
+1654,477,237,4,True,Jerry Maguire
+1657,525,237,4,True,Jerry Maguire
+1670,550,237,3,False,Jerry Maguire
+1678,588,237,2,False,Jerry Maguire
+1686,618,237,4,True,Jerry Maguire
+1687,599,237,5,True,Jerry Maguire
+1688,620,237,4,True,Jerry Maguire
+1701,630,237,5,True,Jerry Maguire
+1702,642,237,5,True,Jerry Maguire
+1709,654,237,4,True,Jerry Maguire
+1726,708,237,5,True,Jerry Maguire
+1733,721,237,3,False,Jerry Maguire
+1738,735,237,4,True,Jerry Maguire
+1744,751,237,2,False,Jerry Maguire
+1755,764,237,4,True,Jerry Maguire
+1764,759,237,3,False,Jerry Maguire
+1777,854,237,3,False,Jerry Maguire
+1782,872,237,4,True,Jerry Maguire
+1799,904,237,5,True,Jerry Maguire
+1801,907,237,5,True,Jerry Maguire
+1808,922,237,4,True,Jerry Maguire
+1814,917,237,5,True,Jerry Maguire
+1815,921,237,3,False,Jerry Maguire
+1823,930,237,3,False,Jerry Maguire
+1825,939,237,5,True,Jerry Maguire
+1828,62,71,4,True,"Lion King, The"
+1834,38,71,5,True,"Lion King, The"
+1861,128,71,4,True,"Lion King, The"
+1863,43,71,4,True,"Lion King, The"
+1873,230,71,5,True,"Lion King, The"
+1877,49,71,3,False,"Lion King, The"
+1878,223,71,5,True,"Lion King, The"
+1879,274,71,4,True,"Lion King, The"
+1880,262,71,4,True,"Lion King, The"
+1884,24,71,5,True,"Lion King, The"
+1887,198,71,3,False,"Lion King, The"
+1888,175,71,4,True,"Lion King, The"
+1890,314,71,5,True,"Lion King, The"
+1898,12,71,4,True,"Lion King, The"
+1907,345,71,3,False,"Lion King, The"
+1910,373,71,5,True,"Lion King, The"
+1919,405,71,1,False,"Lion King, The"
+1924,416,71,4,True,"Lion King, The"
+1926,437,71,3,False,"Lion King, The"
+1946,505,71,4,True,"Lion King, The"
+1954,541,71,5,True,"Lion King, The"
+1961,588,71,4,True,"Lion King, The"
+1964,601,71,1,False,"Lion King, The"
+1966,618,71,4,True,"Lion King, The"
+1968,620,71,5,True,"Lion King, The"
+1972,630,71,3,False,"Lion King, The"
+1973,642,71,5,True,"Lion King, The"
+1976,654,71,3,False,"Lion King, The"
+1985,711,71,3,False,"Lion King, The"
+1986,705,71,5,True,"Lion King, The"
+1987,712,71,5,True,"Lion King, The"
+1997,764,71,5,True,"Lion King, The"
+2009,805,71,3,False,"Lion King, The"
+2024,822,71,4,True,"Lion King, The"
+2036,887,71,5,True,"Lion King, The"
+2038,907,71,5,True,"Lion King, The"
+2040,875,71,2,False,"Lion King, The"
+2042,922,71,4,True,"Lion King, The"
+2045,921,71,4,True,"Lion King, The"
+2048,62,257,2,False,Men in Black
+2052,38,257,1,False,Men in Black
+2057,32,257,4,True,Men in Black
+2086,43,257,4,True,Men in Black
+2090,203,257,3,False,Men in Black
+2092,214,257,3,False,Men in Black
+2104,223,257,4,True,Men in Black
+2107,270,257,4,True,Men in Black
+2111,297,257,3,False,Men in Black
+2118,314,257,5,True,Men in Black
+2136,52,257,3,False,Men in Black
+2153,342,257,2,False,Men in Black
+2154,300,257,4,True,Men in Black
+2155,354,257,3,False,Men in Black
+2176,416,257,3,False,Men in Black
+2177,417,257,3,False,Men in Black
+2185,439,257,4,True,Men in Black
+2209,490,257,3,False,Men in Black
+2214,482,257,4,True,Men in Black
+2219,525,257,4,True,Men in Black
+2223,507,257,5,True,Men in Black
+2225,541,257,5,True,Men in Black
+2228,550,257,4,True,Men in Black
+2240,601,257,2,False,Men in Black
+2249,630,257,3,False,Men in Black
+2250,642,257,5,True,Men in Black
+2255,654,257,4,True,Men in Black
+2264,674,257,4,True,Men in Black
+2268,668,257,3,False,Men in Black
+2275,698,257,3,False,Men in Black
+2279,711,257,3,False,Men in Black
+2280,705,257,4,True,Men in Black
+2289,751,257,4,True,Men in Black
+2295,782,257,3,False,Men in Black
+2303,759,257,4,True,Men in Black
+2309,726,257,3,False,Men in Black
+2318,854,257,3,False,Men in Black
+2319,859,257,2,False,Men in Black
+2331,887,257,5,True,Men in Black
+2338,922,257,4,True,Men in Black
+2342,921,257,3,False,Men in Black
+2346,930,257,4,True,Men in Black
+2347,939,257,5,True,Men in Black
+2352,62,117,4,True,"Rock, The"
+2365,32,117,3,False,"Rock, The"
+2397,128,117,5,True,"Rock, The"
+2402,43,117,4,True,"Rock, The"
+2408,203,117,4,True,"Rock, The"
+2410,214,117,4,True,"Rock, The"
+2420,230,117,5,True,"Rock, The"
+2426,49,117,1,False,"Rock, The"
+2427,223,117,5,True,"Rock, The"
+2428,274,117,4,True,"Rock, The"
+2436,24,117,4,True,"Rock, The"
+2438,297,117,4,True,"Rock, The"
+2439,198,117,1,False,"Rock, The"
+2442,253,117,5,True,"Rock, The"
+2447,314,117,4,True,"Rock, The"
+2464,159,117,5,True,"Rock, The"
+2469,52,117,4,True,"Rock, The"
+2484,345,117,4,True,"Rock, The"
+2488,348,117,4,True,"Rock, The"
+2493,373,117,4,True,"Rock, The"
+2511,416,117,5,True,"Rock, The"
+2514,417,117,4,True,"Rock, The"
+2520,437,117,1,False,"Rock, The"
+2548,490,117,1,False,"Rock, The"
+2552,505,117,4,True,"Rock, The"
+2561,507,117,3,False,"Rock, The"
+2576,555,117,4,True,"Rock, The"
+2579,588,117,4,True,"Rock, The"
+2586,618,117,5,True,"Rock, The"
+2597,630,117,5,True,"Rock, The"
+2598,642,117,4,True,"Rock, The"
+2607,654,117,4,True,"Rock, The"
+2616,657,117,4,True,"Rock, The"
+2619,674,117,5,True,"Rock, The"
+2629,708,117,4,True,"Rock, The"
+2635,705,117,5,True,"Rock, The"
+2644,735,117,3,False,"Rock, The"
+2649,751,117,4,True,"Rock, The"
+2658,764,117,5,True,"Rock, The"
+2668,759,117,5,True,"Rock, The"
+2675,805,117,3,False,"Rock, The"
+2678,726,117,1,False,"Rock, The"
+2685,854,117,3,False,"Rock, The"
+2694,872,117,4,True,"Rock, The"
+2707,904,117,4,True,"Rock, The"
+2710,907,117,5,True,"Rock, The"
+2725,930,117,3,False,"Rock, The"
+2729,62,288,2,False,Scream
+2734,38,288,5,True,Scream
+2744,32,288,4,True,Scream
+2763,229,288,4,True,Scream
+2783,203,288,5,True,Scream
+2785,214,288,3,False,Scream
+2800,165,288,2,False,Scream
+2802,223,288,3,False,Scream
+2803,274,288,4,True,Scream
+2804,126,288,4,True,Scream
+2805,262,288,3,False,Scream
+2809,270,288,5,True,Scream
+2814,36,288,4,True,Scream
+2815,150,288,4,True,Scream
+2816,24,288,3,False,Scream
+2817,297,288,3,False,Scream
+2822,206,288,5,True,Scream
+2823,314,288,5,True,Scream
+2832,304,288,3,False,Scream
+2839,240,288,5,True,Scream
+2847,159,288,3,False,Scream
+2850,258,288,1,False,Scream
+2852,52,288,3,False,Scream
+2853,228,288,4,True,Scream
+2859,241,288,5,True,Scream
+2874,324,288,5,True,Scream
+2879,46,288,2,False,Scream
+2884,345,288,3,False,Scream
+2888,342,288,5,True,Scream
+2889,300,288,4,True,Scream
+2890,348,288,5,True,Scream
+2893,341,288,4,True,Scream
+2909,372,288,5,True,Scream
+2911,376,288,3,False,Scream
+2915,366,288,4,True,Scream
+2920,405,288,5,True,Scream
+2928,416,288,5,True,Scream
+2929,404,288,3,False,Scream
+2932,417,288,3,False,Scream
+2939,281,288,4,True,Scream
+2943,437,288,2,False,Scream
+2951,439,288,3,False,Scream
+2979,434,288,5,True,Scream
+2984,496,288,2,False,Scream
+2987,462,288,5,True,Scream
+2989,482,288,3,False,Scream
+2994,525,288,4,True,Scream
+3001,507,288,5,True,Scream
+3009,550,288,5,True,Scream
+3018,555,288,3,False,Scream
+3024,588,288,4,True,Scream
+3033,601,288,1,False,Scream
+3037,618,288,3,False,Scream
+3039,599,288,4,True,Scream
+3040,617,288,1,False,Scream
+3042,620,288,4,True,Scream
+3057,630,288,4,True,Scream
+3058,642,288,1,False,Scream
+3062,631,288,3,False,Scream
+3066,654,288,3,False,Scream
+3074,674,288,3,False,Scream
+3078,668,288,4,True,Scream
+3080,679,288,4,True,Scream
+3087,609,288,2,False,Scream
+3092,711,288,1,False,Scream
+3094,721,288,3,False,Scream
+3097,646,288,3,False,Scream
+3099,734,288,4,True,Scream
+3101,735,288,4,True,Scream
+3103,740,288,4,True,Scream
+3112,732,288,4,True,Scream
+3122,782,288,4,True,Scream
+3133,787,288,1,False,Scream
+3136,805,288,1,False,Scream
+3149,827,288,3,False,Scream
+3157,854,288,5,True,Scream
+3158,849,288,5,True,Scream
+3162,859,288,4,True,Scream
+3170,872,288,5,True,Scream
+3181,887,288,4,True,Scream
+3182,904,288,4,True,Scream
+3185,907,288,5,True,Scream
+3186,875,288,4,True,Scream
+3191,922,288,2,False,Scream
+3199,921,288,3,False,Scream
+3203,930,288,1,False,Scream
+3204,925,288,5,True,Scream
+3207,62,546,4,True,Broken Arrow
+3246,43,546,4,True,Broken Arrow
+3265,49,546,1,False,Broken Arrow
+3266,223,546,5,True,Broken Arrow
+3267,274,546,3,False,Broken Arrow
+3269,262,546,2,False,Broken Arrow
+3274,270,546,4,True,Broken Arrow
+3277,297,546,3,False,Broken Arrow
+3282,314,546,4,True,Broken Arrow
+3292,159,546,4,True,Broken Arrow
+3308,348,546,3,False,Broken Arrow
+3323,416,546,3,False,Broken Arrow
+3324,417,546,3,False,Broken Arrow
+3350,434,546,5,True,Broken Arrow
+3355,477,546,4,True,Broken Arrow
+3370,555,546,3,False,Broken Arrow
+3376,599,546,4,True,Broken Arrow
+3386,630,546,3,False,Broken Arrow
+3390,654,546,4,True,Broken Arrow
+3405,708,546,3,False,Broken Arrow
+3409,705,546,3,False,Broken Arrow
+3434,805,546,2,False,Broken Arrow
+3443,872,546,4,True,Broken Arrow
+3459,939,546,4,True,Broken Arrow
+3462,62,100,4,True,Fargo
+3475,32,100,3,False,Fargo
+3521,43,100,4,True,Fargo
+3530,203,100,1,False,Fargo
+3532,214,100,4,True,Fargo
+3545,230,100,4,True,Fargo
+3553,49,100,4,True,Fargo
+3554,274,100,5,True,Fargo
+3557,262,100,3,False,Fargo
+3568,150,100,2,False,Fargo
+3570,24,100,5,True,Fargo
+3572,297,100,5,True,Fargo
+3573,198,100,1,False,Fargo
+3577,253,100,4,True,Fargo
+3579,175,100,2,False,Fargo
+3610,52,100,4,True,Fargo
+3618,96,100,5,True,Fargo
+3639,46,100,4,True,Fargo
+3645,345,100,5,True,Fargo
+3648,342,100,5,True,Fargo
+3649,300,100,3,False,Fargo
+3650,348,100,4,True,Fargo
+3651,354,100,5,True,Fargo
+3658,373,100,3,False,Fargo
+3673,372,100,3,False,Fargo
+3676,376,100,4,True,Fargo
+3693,416,100,5,True,Fargo
+3694,417,100,3,False,Fargo
+3705,437,100,4,True,Fargo
+3712,439,100,3,False,Fargo
+3745,490,100,3,False,Fargo
+3750,462,100,4,True,Fargo
+3760,525,100,4,True,Fargo
+3788,555,100,5,True,Fargo
+3793,588,100,1,False,Fargo
+3803,601,100,4,True,Fargo
+3805,618,100,4,True,Fargo
+3806,617,100,4,True,Fargo
+3808,620,100,1,False,Fargo
+3825,630,100,3,False,Fargo
+3832,654,100,1,False,Fargo
+3848,679,100,3,False,Fargo
+3850,698,100,2,False,Fargo
+3866,735,100,2,False,Fargo
+3876,751,100,4,True,Fargo
+3885,764,100,4,True,Fargo
+3903,805,100,5,True,Fargo
+3917,854,100,5,True,Fargo
+3938,887,100,2,False,Fargo
+3942,907,100,5,True,Fargo
+3954,917,100,4,True,Fargo
+3965,930,100,3,False,Fargo
+3969,62,118,2,False,Twister
+3974,38,118,5,True,Twister
+3985,32,118,3,False,Twister
+4007,128,118,5,True,Twister
+4010,43,118,4,True,Twister
+4030,223,118,2,False,Twister
+4031,274,118,4,True,Twister
+4037,270,118,3,False,Twister
+4042,297,118,3,False,Twister
+4043,198,118,2,False,Twister
+4054,159,118,4,True,Twister
+4068,345,118,3,False,Twister
+4072,348,118,4,True,Twister
+4089,416,118,2,False,Twister
+4090,417,118,4,True,Twister
+4096,437,118,2,False,Twister
+4111,490,118,2,False,Twister
+4112,434,118,5,True,Twister
+4120,525,118,3,False,Twister
+4124,507,118,5,True,Twister
+4127,541,118,4,True,Twister
+4135,555,118,4,True,Twister
+4140,588,118,3,False,Twister
+4146,601,118,1,False,Twister
+4149,618,118,3,False,Twister
+4150,620,118,4,True,Twister
+4156,630,118,4,True,Twister
+4157,642,118,3,False,Twister
+4164,654,118,2,False,Twister
+4171,657,118,1,False,Twister
+4174,674,118,3,False,Twister
+4184,708,118,5,True,Twister
+4188,705,118,4,True,Twister
+4200,751,118,2,False,Twister
+4205,764,118,3,False,Twister
+4217,759,118,5,True,Twister
+4222,805,118,3,False,Twister
+4230,854,118,2,False,Twister
+4231,849,118,5,True,Twister
+4232,859,118,3,False,Twister
+4238,872,118,4,True,Twister
+4248,887,118,5,True,Twister
+4251,907,118,4,True,Twister
+4259,939,118,5,True,Twister
+4292,229,300,2,False,Air Force One
+4300,128,300,5,True,Air Force One
+4306,43,300,5,True,Air Force One
+4327,49,300,1,False,Air Force One
+4328,223,300,3,False,Air Force One
+4329,274,300,5,True,Air Force One
+4330,126,300,4,True,Air Force One
+4341,24,300,4,True,Air Force One
+4343,297,300,3,False,Air Force One
+4344,198,300,2,False,Air Force One
+4347,253,300,4,True,Air Force One
+4350,206,300,1,False,Air Force One
+4358,304,300,5,True,Air Force One
+4360,240,300,3,False,Air Force One
+4370,12,300,4,True,Air Force One
+4373,258,300,5,True,Air Force One
+4379,241,300,4,True,Air Force One
+4391,324,300,5,True,Air Force One
+4396,46,300,3,False,Air Force One
+4399,345,300,3,False,Air Force One
+4402,300,300,4,True,Air Force One
+4426,416,300,4,True,Air Force One
+4428,404,300,4,True,Air Force One
+4436,281,300,4,True,Air Force One
+4439,35,300,5,True,Air Force One
+4448,439,300,4,True,Air Force One
+4477,462,300,5,True,Air Force One
+4482,505,300,4,True,Air Force One
+4486,525,300,4,True,Air Force One
+4494,507,300,5,True,Air Force One
+4503,550,300,4,True,Air Force One
+4524,620,300,3,False,Air Force One
+4538,630,300,4,True,Air Force One
+4547,654,300,5,True,Air Force One
+4552,657,300,2,False,Air Force One
+4557,674,300,3,False,Air Force One
+4561,668,300,4,True,Air Force One
+4567,698,300,4,True,Air Force One
+4573,708,300,4,True,Air Force One
+4576,705,300,5,True,Air Force One
+4580,721,300,5,True,Air Force One
+4583,646,300,3,False,Air Force One
+4587,735,300,4,True,Air Force One
+4589,740,300,4,True,Air Force One
+4595,751,300,2,False,Air Force One
+4600,732,300,4,True,Air Force One
+4613,782,300,4,True,Air Force One
+4621,759,300,5,True,Air Force One
+4624,787,300,4,True,Air Force One
+4635,827,300,3,False,Air Force One
+4642,813,300,4,True,Air Force One
+4655,872,300,5,True,Air Force One
+4665,904,300,4,True,Air Force One
+4670,875,300,3,False,Air Force One
+4688,930,300,4,True,Air Force One
+4698,38,95,5,True,Aladdin
+4727,43,95,4,True,Aladdin
+4735,230,95,5,True,Aladdin
+4738,49,95,2,False,Aladdin
+4739,223,95,5,True,Aladdin
+4740,262,95,3,False,Aladdin
+4743,297,95,3,False,Aladdin
+4744,198,95,3,False,Aladdin
+4745,253,95,4,True,Aladdin
+4747,314,95,5,True,Aladdin
+4755,52,95,4,True,Aladdin
+4767,342,95,4,True,Aladdin
+4769,373,95,5,True,Aladdin
+4781,405,95,3,False,Aladdin
+4784,416,95,3,False,Aladdin
+4785,417,95,5,True,Aladdin
+4789,437,95,4,True,Aladdin
+4806,505,95,4,True,Aladdin
+4816,541,95,4,True,Aladdin
+4823,588,95,4,True,Aladdin
+4826,618,95,3,False,Aladdin
+4828,620,95,4,True,Aladdin
+4833,642,95,5,True,Aladdin
+4835,654,95,4,True,Aladdin
+4841,679,95,3,False,Aladdin
+4842,698,95,3,False,Aladdin
+4846,711,95,4,True,Aladdin
+4847,705,95,4,True,Aladdin
+4848,712,95,4,True,Aladdin
+4850,734,95,4,True,Aladdin
+4857,751,95,5,True,Aladdin
+4861,764,95,5,True,Aladdin
+4874,805,95,3,False,Aladdin
+4888,822,95,4,True,Aladdin
+4900,887,95,4,True,Aladdin
+4905,922,95,3,False,Aladdin
+4917,38,79,3,False,"Fugitive, The"
+4956,128,79,4,True,"Fugitive, The"
+4961,43,79,4,True,"Fugitive, The"
+4971,214,79,4,True,"Fugitive, The"
+4980,230,79,5,True,"Fugitive, The"
+4994,270,79,4,True,"Fugitive, The"
+4998,24,79,4,True,"Fugitive, The"
+4999,180,79,3,False,"Fugitive, The"
+5001,297,79,3,False,"Fugitive, The"
+5002,198,79,3,False,"Fugitive, The"
+5006,253,79,5,True,"Fugitive, The"
+5025,96,79,4,True,"Fugitive, The"
+5038,345,79,4,True,"Fugitive, The"
+5042,354,79,2,False,"Fugitive, The"
+5048,373,79,4,True,"Fugitive, The"
+5058,372,79,5,True,"Fugitive, The"
+5063,405,79,5,True,"Fugitive, The"
+5067,416,79,5,True,"Fugitive, The"
+5069,417,79,3,False,"Fugitive, The"
+5072,437,79,4,True,"Fugitive, The"
+5104,505,79,3,False,"Fugitive, The"
+5114,541,79,5,True,"Fugitive, The"
+5126,588,79,4,True,"Fugitive, The"
+5134,618,79,5,True,"Fugitive, The"
+5148,654,79,5,True,"Fugitive, The"
+5172,711,79,4,True,"Fugitive, The"
+5173,705,79,5,True,"Fugitive, The"
+5174,712,79,4,True,"Fugitive, The"
+5186,751,79,4,True,"Fugitive, The"
+5206,805,79,5,True,"Fugitive, The"
+5215,854,79,4,True,"Fugitive, The"
+5237,907,79,5,True,"Fugitive, The"
+5243,921,79,4,True,"Fugitive, The"
+5249,62,121,4,True,Independence Day (ID4)
+5300,128,121,4,True,Independence Day (ID4)
+5305,43,121,4,True,Independence Day (ID4)
+5313,214,121,4,True,Independence Day (ID4)
+5325,230,121,4,True,Independence Day (ID4)
+5332,49,121,1,False,Independence Day (ID4)
+5333,223,121,3,False,Independence Day (ID4)
+5336,262,121,3,False,Independence Day (ID4)
+5344,270,121,4,True,Independence Day (ID4)
+5349,150,121,2,False,Independence Day (ID4)
+5350,180,121,5,True,Independence Day (ID4)
+5352,198,121,3,False,Independence Day (ID4)
+5356,253,121,5,True,Independence Day (ID4)
+5361,314,121,4,True,Independence Day (ID4)
+5382,159,121,3,False,Independence Day (ID4)
+5386,52,121,4,True,Independence Day (ID4)
+5406,345,121,3,False,Independence Day (ID4)
+5410,348,121,5,True,Independence Day (ID4)
+5434,416,121,5,True,Independence Day (ID4)
+5435,417,121,3,False,Independence Day (ID4)
+5441,437,121,3,False,Independence Day (ID4)
+5447,439,121,2,False,Independence Day (ID4)
+5469,434,121,4,True,Independence Day (ID4)
+5479,505,121,4,True,Independence Day (ID4)
+5482,525,121,4,True,Independence Day (ID4)
+5489,507,121,5,True,Independence Day (ID4)
+5494,541,121,3,False,Independence Day (ID4)
+5501,550,121,5,True,Independence Day (ID4)
+5507,555,121,3,False,Independence Day (ID4)
+5513,588,121,5,True,Independence Day (ID4)
+5519,601,121,2,False,Independence Day (ID4)
+5522,618,121,4,True,Independence Day (ID4)
+5523,620,121,5,True,Independence Day (ID4)
+5536,630,121,4,True,Independence Day (ID4)
+5537,642,121,5,True,Independence Day (ID4)
+5544,654,121,4,True,Independence Day (ID4)
+5555,674,121,4,True,Independence Day (ID4)
+5560,679,121,2,False,Independence Day (ID4)
+5568,698,121,2,False,Independence Day (ID4)
+5571,708,121,3,False,Independence Day (ID4)
+5576,711,121,1,False,Independence Day (ID4)
+5577,705,121,5,True,Independence Day (ID4)
+5583,734,121,4,True,Independence Day (ID4)
+5590,751,121,4,True,Independence Day (ID4)
+5598,764,121,5,True,Independence Day (ID4)
+5610,759,121,5,True,Independence Day (ID4)
+5618,805,121,3,False,Independence Day (ID4)
+5629,854,121,1,False,Independence Day (ID4)
+5631,849,121,5,True,Independence Day (ID4)
+5641,872,121,4,True,Independence Day (ID4)
+5652,887,121,5,True,Independence Day (ID4)
+5655,907,121,4,True,Independence Day (ID4)
+5664,917,121,1,False,Independence Day (ID4)
+5666,921,121,5,True,Independence Day (ID4)
+5673,930,121,4,True,Independence Day (ID4)
+5674,939,121,5,True,Independence Day (ID4)
+5677,62,568,3,False,Speed
+5709,128,568,4,True,Speed
+5713,43,568,4,True,Speed
+5717,214,568,4,True,Speed
+5724,230,568,3,False,Speed
+5729,262,568,3,False,Speed
+5737,198,568,3,False,Speed
+5739,253,568,4,True,Speed
+5741,314,568,5,True,Speed
+5762,345,568,4,True,Speed
+5766,373,568,4,True,Speed
+5776,405,568,4,True,Speed
+5779,416,568,4,True,Speed
+5781,417,568,2,False,Speed
+5804,505,568,4,True,Speed
+5818,588,568,4,True,Speed
+5824,618,568,4,True,Speed
+5832,630,568,4,True,Speed
+5833,642,568,4,True,Speed
+5837,654,568,4,True,Speed
+5845,679,568,2,False,Speed
+5848,698,568,2,False,Speed
+5851,711,568,3,False,Speed
+5852,705,568,5,True,Speed
+5853,712,568,5,True,Speed
+5858,751,568,3,False,Speed
+5872,805,568,3,False,Speed
+5880,849,568,4,True,Speed
+5897,887,568,2,False,Speed
+5901,922,568,3,False,Speed
+5908,62,98,4,True,"Silence of the Lambs, The"
+5963,128,98,4,True,"Silence of the Lambs, The"
+5969,43,98,5,True,"Silence of the Lambs, The"
+5979,214,98,4,True,"Silence of the Lambs, The"
+5987,230,98,5,True,"Silence of the Lambs, The"
+5994,49,98,4,True,"Silence of the Lambs, The"
+5995,274,98,5,True,"Silence of the Lambs, The"
+5998,262,98,4,True,"Silence of the Lambs, The"
+6003,270,98,5,True,"Silence of the Lambs, The"
+6008,24,98,5,True,"Silence of the Lambs, The"
+6010,180,98,5,True,"Silence of the Lambs, The"
+6013,297,98,5,True,"Silence of the Lambs, The"
+6014,198,98,4,True,"Silence of the Lambs, The"
+6018,253,98,5,True,"Silence of the Lambs, The"
+6020,175,98,5,True,"Silence of the Lambs, The"
+6038,12,98,5,True,"Silence of the Lambs, The"
+6040,228,98,3,False,"Silence of the Lambs, The"
+6045,96,98,5,True,"Silence of the Lambs, The"
+6059,345,98,5,True,"Silence of the Lambs, The"
+6062,342,98,3,False,"Silence of the Lambs, The"
+6063,354,98,3,False,"Silence of the Lambs, The"
+6081,372,98,5,True,"Silence of the Lambs, The"
+6084,376,98,5,True,"Silence of the Lambs, The"
+6086,366,98,5,True,"Silence of the Lambs, The"
+6089,405,98,4,True,"Silence of the Lambs, The"
+6096,416,98,5,True,"Silence of the Lambs, The"
+6097,417,98,5,True,"Silence of the Lambs, The"
+6103,437,98,5,True,"Silence of the Lambs, The"
+6132,496,98,4,True,"Silence of the Lambs, The"
+6140,505,98,4,True,"Silence of the Lambs, The"
+6162,588,98,1,False,"Silence of the Lambs, The"
+6166,601,98,3,False,"Silence of the Lambs, The"
+6168,618,98,5,True,"Silence of the Lambs, The"
+6170,617,98,2,False,"Silence of the Lambs, The"
+6171,620,98,4,True,"Silence of the Lambs, The"
+6178,630,98,5,True,"Silence of the Lambs, The"
+6183,654,98,5,True,"Silence of the Lambs, The"
+6210,711,98,5,True,"Silence of the Lambs, The"
+6214,734,98,4,True,"Silence of the Lambs, The"
+6222,751,98,5,True,"Silence of the Lambs, The"
+6227,764,98,5,True,"Silence of the Lambs, The"
+6246,805,98,5,True,"Silence of the Lambs, The"
+6257,854,98,4,True,"Silence of the Lambs, The"
+6277,887,98,3,False,"Silence of the Lambs, The"
+6279,907,98,5,True,"Silence of the Lambs, The"
+6281,875,98,5,True,"Silence of the Lambs, The"
+6287,922,98,5,True,"Silence of the Lambs, The"
+6295,925,98,4,True,"Silence of the Lambs, The"
+6298,62,56,5,True,Pulp Fiction
+6348,128,56,3,False,Pulp Fiction
+6354,43,56,5,True,Pulp Fiction
+6365,214,56,5,True,Pulp Fiction
+6373,230,56,3,False,Pulp Fiction
+6382,49,56,5,True,Pulp Fiction
+6384,262,56,4,True,Pulp Fiction
+6390,270,56,5,True,Pulp Fiction
+6394,24,56,4,True,Pulp Fiction
+6396,180,56,5,True,Pulp Fiction
+6399,297,56,5,True,Pulp Fiction
+6400,198,56,5,True,Pulp Fiction
+6404,253,56,3,False,Pulp Fiction
+6405,175,56,2,False,Pulp Fiction
+6409,314,56,1,False,Pulp Fiction
+6428,228,56,2,False,Pulp Fiction
+6435,96,56,5,True,Pulp Fiction
+6449,345,56,5,True,Pulp Fiction
+6452,342,56,5,True,Pulp Fiction
+6468,372,56,4,True,Pulp Fiction
+6474,366,56,5,True,Pulp Fiction
+6476,405,56,4,True,Pulp Fiction
+6483,416,56,5,True,Pulp Fiction
+6486,417,56,5,True,Pulp Fiction
+6489,437,56,4,True,Pulp Fiction
+6518,496,56,5,True,Pulp Fiction
+6523,505,56,1,False,Pulp Fiction
+6552,588,56,4,True,Pulp Fiction
+6559,601,56,3,False,Pulp Fiction
+6562,618,56,4,True,Pulp Fiction
+6564,617,56,1,False,Pulp Fiction
+6573,642,56,4,True,Pulp Fiction
+6578,654,56,4,True,Pulp Fiction
+6593,679,56,4,True,Pulp Fiction
+6605,721,56,3,False,Pulp Fiction
+6607,734,56,1,False,Pulp Fiction
+6617,751,56,4,True,Pulp Fiction
+6622,764,56,4,True,Pulp Fiction
+6635,805,56,4,True,Pulp Fiction
+6649,854,56,5,True,Pulp Fiction
+6671,887,56,5,True,Pulp Fiction
+6674,875,56,5,True,Pulp Fiction
+6679,922,56,1,False,Pulp Fiction
+6689,925,56,3,False,Pulp Fiction
+6691,62,258,5,True,Contact
+6725,229,258,2,False,Contact
+6739,128,258,2,False,Contact
+6746,43,258,5,True,Contact
+6754,203,258,3,False,Contact
+6777,165,258,5,True,Contact
+6779,49,258,2,False,Contact
+6780,223,258,1,False,Contact
+6781,274,258,5,True,Contact
+6782,126,258,4,True,Contact
+6783,262,258,4,True,Contact
+6787,270,258,3,False,Contact
+6794,24,258,4,True,Contact
+6796,180,258,5,True,Contact
+6798,297,258,5,True,Contact
+6799,198,258,4,True,Contact
+6807,206,258,4,True,Contact
+6831,159,258,4,True,Contact
+6836,258,258,2,False,Contact
+6837,52,258,5,True,Contact
+6859,324,258,4,True,Contact
+6870,345,258,4,True,Contact
+6875,354,258,4,True,Contact
+6908,416,258,5,True,Contact
+6910,404,258,4,True,Contact
+6912,417,258,4,True,Contact
+6920,281,258,2,False,Contact
+6922,35,258,2,False,Contact
+6959,490,258,2,False,Contact
+6970,482,258,2,False,Contact
+6974,505,258,1,False,Contact
+6986,507,258,4,True,Contact
+6992,541,258,4,True,Contact
+6997,550,258,5,True,Contact
+7006,555,258,3,False,Contact
+7014,588,258,4,True,Contact
+7020,601,258,5,True,Contact
+7036,630,258,3,False,Contact
+7037,642,258,3,False,Contact
+7045,654,258,4,True,Contact
+7050,657,258,2,False,Contact
+7057,668,258,2,False,Contact
+7062,698,258,3,False,Contact
+7065,609,258,3,False,Contact
+7066,708,258,5,True,Contact
+7067,711,258,4,True,Contact
+7070,721,258,3,False,Contact
+7073,646,258,3,False,Contact
+7078,735,258,4,True,Contact
+7082,740,258,3,False,Contact
+7109,782,258,4,True,Contact
+7116,759,258,4,True,Contact
+7122,787,258,5,True,Contact
+7128,805,258,3,False,Contact
+7138,827,258,3,False,Contact
+7147,854,258,4,True,Contact
+7162,872,258,4,True,Contact
+7176,887,258,1,False,Contact
+7180,907,258,4,True,Contact
+7182,875,258,4,True,Contact
+7184,922,258,4,True,Contact
+7195,939,258,4,True,Contact
+7201,62,12,4,True,"Usual Suspects, The"
+7241,43,12,5,True,"Usual Suspects, The"
+7246,214,12,5,True,"Usual Suspects, The"
+7256,49,12,4,True,"Usual Suspects, The"
+7262,24,12,5,True,"Usual Suspects, The"
+7264,180,12,2,False,"Usual Suspects, The"
+7265,297,12,5,True,"Usual Suspects, The"
+7266,253,12,5,True,"Usual Suspects, The"
+7268,175,12,4,True,"Usual Suspects, The"
+7270,314,12,4,True,"Usual Suspects, The"
+7298,345,12,5,True,"Usual Suspects, The"
+7301,342,12,5,True,"Usual Suspects, The"
+7305,373,12,5,True,"Usual Suspects, The"
+7314,372,12,4,True,"Usual Suspects, The"
+7320,405,12,5,True,"Usual Suspects, The"
+7326,416,12,5,True,"Usual Suspects, The"
+7327,417,12,4,True,"Usual Suspects, The"
+7331,437,12,5,True,"Usual Suspects, The"
+7382,588,12,5,True,"Usual Suspects, The"
+7387,601,12,3,False,"Usual Suspects, The"
+7389,618,12,4,True,"Usual Suspects, The"
+7397,630,12,4,True,"Usual Suspects, The"
+7400,654,12,5,True,"Usual Suspects, The"
+7430,805,12,4,True,"Usual Suspects, The"
+7438,854,12,5,True,"Usual Suspects, The"
+7455,875,12,5,True,"Usual Suspects, The"
+7467,62,294,1,False,Liar Liar
+7473,38,294,5,True,Liar Liar
+7481,32,294,3,False,Liar Liar
+7519,128,294,4,True,Liar Liar
+7526,43,294,5,True,Liar Liar
+7534,203,294,2,False,Liar Liar
+7535,214,294,3,False,Liar Liar
+7544,230,294,5,True,Liar Liar
+7553,49,294,1,False,Liar Liar
+7554,223,294,4,True,Liar Liar
+7555,274,294,3,False,Liar Liar
+7558,126,294,3,False,Liar Liar
+7559,262,294,2,False,Liar Liar
+7568,24,294,3,False,Liar Liar
+7569,297,294,3,False,Liar Liar
+7573,253,294,4,True,Liar Liar
+7579,206,294,2,False,Liar Liar
+7580,314,294,5,True,Liar Liar
+7589,304,294,4,True,Liar Liar
+7600,159,294,4,True,Liar Liar
+7605,258,294,4,True,Liar Liar
+7614,241,294,3,False,Liar Liar
+7625,324,294,5,True,Liar Liar
+7628,46,294,2,False,Liar Liar
+7634,345,294,3,False,Liar Liar
+7636,342,294,3,False,Liar Liar
+7637,300,294,3,False,Liar Liar
+7638,348,294,4,True,Liar Liar
+7640,341,294,3,False,Liar Liar
+7667,416,294,4,True,Liar Liar
+7668,404,294,4,True,Liar Liar
+7670,417,294,4,True,Liar Liar
+7674,281,294,3,False,Liar Liar
+7715,482,294,4,True,Liar Liar
+7719,505,294,3,False,Liar Liar
+7722,477,294,4,True,Liar Liar
+7729,507,294,5,True,Liar Liar
+7741,550,294,3,False,Liar Liar
+7754,588,294,4,True,Liar Liar
+7765,601,294,1,False,Liar Liar
+7768,599,294,4,True,Liar Liar
+7769,617,294,1,False,Liar Liar
+7770,620,294,5,True,Liar Liar
+7782,630,294,4,True,Liar Liar
+7783,642,294,5,True,Liar Liar
+7789,631,294,3,False,Liar Liar
+7794,654,294,3,False,Liar Liar
+7800,657,294,5,True,Liar Liar
+7805,674,294,4,True,Liar Liar
+7810,668,294,3,False,Liar Liar
+7813,679,294,1,False,Liar Liar
+7817,698,294,4,True,Liar Liar
+7820,609,294,2,False,Liar Liar
+7822,708,294,3,False,Liar Liar
+7828,712,294,4,True,Liar Liar
+7831,721,294,3,False,Liar Liar
+7835,646,294,2,False,Liar Liar
+7838,734,294,1,False,Liar Liar
+7843,740,294,4,True,Liar Liar
+7851,732,294,3,False,Liar Liar
+7856,764,294,3,False,Liar Liar
+7865,782,294,3,False,Liar Liar
+7877,759,294,5,True,Liar Liar
+7880,787,294,3,False,Liar Liar
+7882,805,294,1,False,Liar Liar
+7886,726,294,5,True,Liar Liar
+7895,827,294,4,True,Liar Liar
+7902,813,294,1,False,Liar Liar
+7905,854,294,2,False,Liar Liar
+7910,859,294,3,False,Liar Liar
+7922,872,294,3,False,Liar Liar
+7930,887,294,5,True,Liar Liar
+7935,907,294,4,True,Liar Liar
+7936,875,294,2,False,Liar Liar
+7939,922,294,4,True,Liar Liar
+7944,921,294,4,True,Liar Liar
+7952,62,405,3,False,Mission: Impossible
+7956,38,405,5,True,Mission: Impossible
+7969,32,405,4,True,Mission: Impossible
+8002,128,405,4,True,Mission: Impossible
+8006,43,405,4,True,Mission: Impossible
+8021,230,405,4,True,Mission: Impossible
+8027,223,405,1,False,Mission: Impossible
+8028,274,405,4,True,Mission: Impossible
+8031,262,405,2,False,Mission: Impossible
+8043,198,405,2,False,Mission: Impossible
+8049,314,405,4,True,Mission: Impossible
+8067,159,405,5,True,Mission: Impossible
+8070,52,405,4,True,Mission: Impossible
+8083,345,405,4,True,Mission: Impossible
+8087,348,405,4,True,Mission: Impossible
+8106,416,405,5,True,Mission: Impossible
+8108,417,405,3,False,Mission: Impossible
+8118,439,405,4,True,Mission: Impossible
+8144,525,405,4,True,Mission: Impossible
+8149,507,405,5,True,Mission: Impossible
+8154,541,405,3,False,Mission: Impossible
+8160,550,405,4,True,Mission: Impossible
+8166,555,405,4,True,Mission: Impossible
+8173,601,405,1,False,Mission: Impossible
+8186,642,405,3,False,Mission: Impossible
+8191,654,405,4,True,Mission: Impossible
+8198,674,405,4,True,Mission: Impossible
+8205,708,405,4,True,Mission: Impossible
+8209,705,405,4,True,Mission: Impossible
+8218,751,405,3,False,Mission: Impossible
+8224,764,405,4,True,Mission: Impossible
+8234,759,405,4,True,Mission: Impossible
+8242,805,405,3,False,Mission: Impossible
+8253,854,405,4,True,Mission: Impossible
+8262,872,405,4,True,Mission: Impossible
+8274,887,405,5,True,Mission: Impossible
+8277,907,405,4,True,Mission: Impossible
+8283,917,405,3,False,Mission: Impossible
+8285,921,405,3,False,Mission: Impossible
+8292,930,405,3,False,Mission: Impossible
+8293,939,405,4,True,Mission: Impossible
+8317,229,269,4,True,"Full Monty, The"
+8332,43,269,5,True,"Full Monty, The"
+8338,214,269,3,False,"Full Monty, The"
+8351,262,269,3,False,"Full Monty, The"
+8358,36,269,3,False,"Full Monty, The"
+8360,297,269,4,True,"Full Monty, The"
+8365,206,269,4,True,"Full Monty, The"
+8378,240,269,5,True,"Full Monty, The"
+8417,345,269,5,True,"Full Monty, The"
+8420,354,269,4,True,"Full Monty, The"
+8427,373,269,5,True,"Full Monty, The"
+8431,376,269,5,True,"Full Monty, The"
+8439,416,269,4,True,"Full Monty, The"
+8441,404,269,4,True,"Full Monty, The"
+8470,482,269,4,True,"Full Monty, The"
+8477,525,269,5,True,"Full Monty, The"
+8482,507,269,2,False,"Full Monty, The"
+8492,555,269,5,True,"Full Monty, The"
+8504,617,269,1,False,"Full Monty, The"
+8516,654,269,4,True,"Full Monty, The"
+8520,657,269,5,True,"Full Monty, The"
+8526,668,269,5,True,"Full Monty, The"
+8533,708,269,3,False,"Full Monty, The"
+8536,711,269,5,True,"Full Monty, The"
+8538,721,269,5,True,"Full Monty, The"
+8542,735,269,3,False,"Full Monty, The"
+8545,740,269,4,True,"Full Monty, The"
+8549,751,269,5,True,"Full Monty, The"
+8553,732,269,5,True,"Full Monty, The"
+8561,782,269,3,False,"Full Monty, The"
+8571,787,269,3,False,"Full Monty, The"
+8572,805,269,5,True,"Full Monty, The"
+8575,827,269,5,True,"Full Monty, The"
+8581,854,269,4,True,"Full Monty, The"
+8597,875,269,4,True,"Full Monty, The"
+8607,930,269,4,True,"Full Monty, The"
+8642,128,265,5,True,"Hunt for Red October, The"
+8656,230,265,5,True,"Hunt for Red October, The"
+8666,270,265,4,True,"Hunt for Red October, The"
+8673,297,265,3,False,"Hunt for Red October, The"
+8674,198,265,3,False,"Hunt for Red October, The"
+8687,96,265,5,True,"Hunt for Red October, The"
+8702,373,265,4,True,"Hunt for Red October, The"
+8711,405,265,2,False,"Hunt for Red October, The"
+8714,416,265,5,True,"Hunt for Red October, The"
+8716,417,265,3,False,"Hunt for Red October, The"
+8720,437,265,3,False,"Hunt for Red October, The"
+8741,505,265,4,True,"Hunt for Red October, The"
+8752,541,265,5,True,"Hunt for Red October, The"
+8758,555,265,3,False,"Hunt for Red October, The"
+8760,588,265,5,True,"Hunt for Red October, The"
+8766,618,265,4,True,"Hunt for Red October, The"
+8773,654,265,5,True,"Hunt for Red October, The"
+8789,711,265,2,False,"Hunt for Red October, The"
+8790,705,265,5,True,"Hunt for Red October, The"
+8832,922,265,5,True,"Hunt for Red October, The"
+8836,930,265,3,False,"Hunt for Red October, The"
+8838,62,8,5,True,Babe
+8872,43,8,4,True,Babe
+8877,214,8,4,True,Babe
+8882,230,8,5,True,Babe
+8887,49,8,3,False,Babe
+8888,223,8,2,False,Babe
+8893,24,8,5,True,Babe
+8896,297,8,5,True,Babe
+8898,253,8,4,True,Babe
+8899,314,8,4,True,Babe
+8911,96,8,5,True,Babe
+8925,342,8,4,True,Babe
+8926,354,8,5,True,Babe
+8938,405,8,4,True,Babe
+8943,416,8,5,True,Babe
+8947,437,8,4,True,Babe
+8974,541,8,5,True,Babe
+8982,588,8,5,True,Babe
+8985,601,8,3,False,Babe
+8987,618,8,3,False,Babe
+8989,620,8,3,False,Babe
+8994,642,8,5,True,Babe
+8996,654,8,5,True,Babe
+9004,679,8,2,False,Babe
+9007,711,8,5,True,Babe
+9009,705,8,3,False,Babe
+9010,721,8,4,True,Babe
+9025,805,8,3,False,Babe
+9030,854,8,5,True,Babe
+9044,887,8,4,True,Babe
+9047,907,8,3,False,Babe
+9049,875,8,3,False,Babe
+9053,921,8,3,False,Babe
+9055,930,8,3,False,Babe
+9057,62,127,4,True,"Godfather, The"
+9061,38,127,2,False,"Godfather, The"
+9106,43,127,4,True,"Godfather, The"
+9114,214,127,4,True,"Godfather, The"
+9130,165,127,4,True,"Godfather, The"
+9143,150,127,5,True,"Godfather, The"
+9145,24,127,5,True,"Godfather, The"
+9148,198,127,5,True,"Godfather, The"
+9152,253,127,5,True,"Godfather, The"
+9154,175,127,5,True,"Godfather, The"
+9172,159,127,5,True,"Godfather, The"
+9175,12,127,4,True,"Godfather, The"
+9180,96,127,5,True,"Godfather, The"
+9190,324,127,4,True,"Godfather, The"
+9195,46,127,5,True,"Godfather, The"
+9205,373,127,2,False,"Godfather, The"
+9223,405,127,5,True,"Godfather, The"
+9230,416,127,5,True,"Godfather, The"
+9231,417,127,4,True,"Godfather, The"
+9266,490,127,5,True,"Godfather, The"
+9275,482,127,4,True,"Godfather, The"
+9278,505,127,1,False,"Godfather, The"
+9283,525,127,3,False,"Godfather, The"
+9316,601,127,4,True,"Godfather, The"
+9319,618,127,5,True,"Godfather, The"
+9333,630,127,2,False,"Godfather, The"
+9349,674,127,5,True,"Godfather, The"
+9360,698,127,4,True,"Godfather, The"
+9364,708,127,3,False,"Godfather, The"
+9369,721,127,5,True,"Godfather, The"
+9375,735,127,4,True,"Godfather, The"
+9399,782,127,4,True,"Godfather, The"
+9407,759,127,2,False,"Godfather, The"
+9412,805,127,3,False,"Godfather, The"
+9427,854,127,4,True,"Godfather, The"
+9450,887,127,3,False,"Godfather, The"
+9456,922,127,3,False,"Godfather, The"
+9467,939,127,5,True,"Godfather, The"
+9470,62,228,3,False,Star Trek: The Wrath of Khan
+9507,128,228,3,False,Star Trek: The Wrath of Khan
+9518,230,228,2,False,Star Trek: The Wrath of Khan
+9531,297,228,2,False,Star Trek: The Wrath of Khan
+9532,198,228,3,False,Star Trek: The Wrath of Khan
+9545,12,228,4,True,Star Trek: The Wrath of Khan
+9564,373,228,4,True,Star Trek: The Wrath of Khan
+9575,405,228,1,False,Star Trek: The Wrath of Khan
+9581,417,228,3,False,Star Trek: The Wrath of Khan
+9599,496,228,1,False,Star Trek: The Wrath of Khan
+9603,505,228,2,False,Star Trek: The Wrath of Khan
+9621,601,228,5,True,Star Trek: The Wrath of Khan
+9640,698,228,3,False,Star Trek: The Wrath of Khan
+9645,711,228,3,False,Star Trek: The Wrath of Khan
+9647,705,228,3,False,Star Trek: The Wrath of Khan
+9648,712,228,3,False,Star Trek: The Wrath of Khan
+9649,721,228,5,True,Star Trek: The Wrath of Khan
+9673,805,228,3,False,Star Trek: The Wrath of Khan
+9698,887,228,4,True,Star Trek: The Wrath of Khan
+9704,922,228,4,True,Star Trek: The Wrath of Khan
+9709,921,228,3,False,Star Trek: The Wrath of Khan
+9718,38,234,5,True,Jaws
+9768,230,234,4,True,Jaws
+9773,274,234,5,True,Jaws
+9775,262,234,3,False,Jaws
+9778,270,234,5,True,Jaws
+9786,297,234,3,False,Jaws
+9787,198,234,3,False,Jaws
+9789,253,234,4,True,Jaws
+9790,175,234,5,True,Jaws
+9804,96,234,4,True,Jaws
+9817,345,234,4,True,Jaws
+9829,372,234,5,True,Jaws
+9834,366,234,1,False,Jaws
+9836,405,234,5,True,Jaws
+9841,416,234,5,True,Jaws
+9842,417,234,4,True,Jaws
+9847,437,234,4,True,Jaws
+9886,541,234,5,True,Jaws
+9897,588,234,5,True,Jaws
+9901,601,234,1,False,Jaws
+9904,618,234,4,True,Jaws
+9905,617,234,3,False,Jaws
+9906,620,234,3,False,Jaws
+9912,642,234,1,False,Jaws
+9934,712,234,2,False,Jaws
+9958,805,234,5,True,Jaws
+9969,849,234,5,True,Jaws
+10032,43,11,5,True,Seven (Se7en)
+10039,214,11,5,True,Seven (Se7en)
+10045,230,11,4,True,Seven (Se7en)
+10050,49,11,3,False,Seven (Se7en)
+10051,223,11,3,False,Seven (Se7en)
+10053,262,11,4,True,Seven (Se7en)
+10058,24,11,5,True,Seven (Se7en)
+10059,297,11,4,True,Seven (Se7en)
+10060,198,11,4,True,Seven (Se7en)
+10064,175,11,5,True,Seven (Se7en)
+10065,314,11,5,True,Seven (Se7en)
+10090,345,11,4,True,Seven (Se7en)
+10093,342,11,5,True,Seven (Se7en)
+10100,376,11,4,True,Seven (Se7en)
+10104,405,11,4,True,Seven (Se7en)
+10108,416,11,4,True,Seven (Se7en)
+10109,417,11,5,True,Seven (Se7en)
+10113,437,11,1,False,Seven (Se7en)
+10133,496,11,4,True,Seven (Se7en)
+10135,462,11,5,True,Seven (Se7en)
+10138,505,11,4,True,Seven (Se7en)
+10161,618,11,4,True,Seven (Se7en)
+10168,630,11,5,True,Seven (Se7en)
+10172,654,11,4,True,Seven (Se7en)
+10189,751,11,1,False,Seven (Se7en)
+10193,764,11,4,True,Seven (Se7en)
+10198,805,11,2,False,Seven (Se7en)
+10203,854,11,5,True,Seven (Se7en)
+10224,922,11,5,True,Seven (Se7en)
+10230,62,69,4,True,Forrest Gump
+10235,38,69,5,True,Forrest Gump
+10280,128,69,4,True,Forrest Gump
+10286,43,69,4,True,Forrest Gump
+10295,214,69,2,False,Forrest Gump
+10304,230,69,4,True,Forrest Gump
+10308,165,69,3,False,Forrest Gump
+10309,223,69,5,True,Forrest Gump
+10310,274,69,5,True,Forrest Gump
+10313,262,69,4,True,Forrest Gump
+10319,24,69,5,True,Forrest Gump
+10321,180,69,4,True,Forrest Gump
+10324,297,69,3,False,Forrest Gump
+10325,198,69,4,True,Forrest Gump
+10328,314,69,5,True,Forrest Gump
+10342,12,69,5,True,Forrest Gump
+10356,345,69,4,True,Forrest Gump
+10362,373,69,4,True,Forrest Gump
+10372,405,69,4,True,Forrest Gump
+10378,416,69,4,True,Forrest Gump
+10379,417,69,3,False,Forrest Gump
+10381,437,69,2,False,Forrest Gump
+10410,505,69,3,False,Forrest Gump
+10431,588,69,2,False,Forrest Gump
+10436,601,69,3,False,Forrest Gump
+10439,618,69,4,True,Forrest Gump
+10446,630,69,3,False,Forrest Gump
+10447,642,69,5,True,Forrest Gump
+10451,654,69,4,True,Forrest Gump
+10464,668,69,1,False,Forrest Gump
+10465,679,69,4,True,Forrest Gump
+10473,711,69,3,False,Forrest Gump
+10474,705,69,3,False,Forrest Gump
+10475,712,69,3,False,Forrest Gump
+10476,721,69,4,True,Forrest Gump
+10491,764,69,5,True,Forrest Gump
+10514,854,69,4,True,Forrest Gump
+10534,887,69,4,True,Forrest Gump
+10540,922,69,3,False,Forrest Gump
+10543,921,69,4,True,Forrest Gump
+10551,62,172,5,True,"Empire Strikes Back, The"
+10597,128,172,3,False,"Empire Strikes Back, The"
+10601,43,172,4,True,"Empire Strikes Back, The"
+10612,214,172,3,False,"Empire Strikes Back, The"
+10619,230,172,4,True,"Empire Strikes Back, The"
+10627,49,172,1,False,"Empire Strikes Back, The"
+10630,262,172,2,False,"Empire Strikes Back, The"
+10641,198,172,4,True,"Empire Strikes Back, The"
+10645,175,172,5,True,"Empire Strikes Back, The"
+10664,12,172,4,True,"Empire Strikes Back, The"
+10680,345,172,4,True,"Empire Strikes Back, The"
+10687,373,172,5,True,"Empire Strikes Back, The"
+10704,405,172,5,True,"Empire Strikes Back, The"
+10710,416,172,5,True,"Empire Strikes Back, The"
+10713,417,172,3,False,"Empire Strikes Back, The"
+10718,437,172,4,True,"Empire Strikes Back, The"
+10745,496,172,5,True,"Empire Strikes Back, The"
+10751,505,172,3,False,"Empire Strikes Back, The"
+10761,541,172,5,True,"Empire Strikes Back, The"
+10772,588,172,5,True,"Empire Strikes Back, The"
+10777,601,172,4,True,"Empire Strikes Back, The"
+10780,618,172,5,True,"Empire Strikes Back, The"
+10782,620,172,4,True,"Empire Strikes Back, The"
+10791,630,172,3,False,"Empire Strikes Back, The"
+10792,642,172,5,True,"Empire Strikes Back, The"
+10798,654,172,4,True,"Empire Strikes Back, The"
+10811,679,172,5,True,"Empire Strikes Back, The"
+10817,698,172,5,True,"Empire Strikes Back, The"
+10823,711,172,5,True,"Empire Strikes Back, The"
+10824,705,172,3,False,"Empire Strikes Back, The"
+10825,712,172,5,True,"Empire Strikes Back, The"
+10826,721,172,5,True,"Empire Strikes Back, The"
+10829,734,172,4,True,"Empire Strikes Back, The"
+10839,751,172,5,True,"Empire Strikes Back, The"
+10861,805,172,4,True,"Empire Strikes Back, The"
+10873,849,172,5,True,"Empire Strikes Back, The"
+10895,887,172,5,True,"Empire Strikes Back, The"
+10898,907,172,4,True,"Empire Strikes Back, The"
+10900,875,172,4,True,"Empire Strikes Back, The"
+10905,922,172,5,True,"Empire Strikes Back, The"
+10911,921,172,4,True,"Empire Strikes Back, The"
+10918,62,82,4,True,Jurassic Park
+10923,38,82,5,True,Jurassic Park
+10956,128,82,5,True,Jurassic Park
+10960,43,82,4,True,Jurassic Park
+10974,230,82,5,True,Jurassic Park
+10978,49,82,1,False,Jurassic Park
+10980,262,82,3,False,Jurassic Park
+10988,198,82,3,False,Jurassic Park
+10989,253,82,3,False,Jurassic Park
+10999,12,82,4,True,Jurassic Park
+11016,373,82,1,False,Jurassic Park
+11027,405,82,4,True,Jurassic Park
+11030,416,82,5,True,Jurassic Park
+11031,417,82,4,True,Jurassic Park
+11034,437,82,3,False,Jurassic Park
+11058,505,82,4,True,Jurassic Park
+11067,541,82,3,False,Jurassic Park
+11077,588,82,5,True,Jurassic Park
+11079,601,82,1,False,Jurassic Park
+11082,618,82,4,True,Jurassic Park
+11083,620,82,5,True,Jurassic Park
+11090,642,82,5,True,Jurassic Park
+11094,654,82,5,True,Jurassic Park
+11103,668,82,4,True,Jurassic Park
+11111,711,82,3,False,Jurassic Park
+11112,705,82,5,True,Jurassic Park
+11113,712,82,5,True,Jurassic Park
+11114,721,82,4,True,Jurassic Park
+11116,734,82,4,True,Jurassic Park
+11122,751,82,4,True,Jurassic Park
+11138,805,82,3,False,Jurassic Park
+11163,887,82,4,True,Jurassic Park
+11168,922,82,3,False,Jurassic Park
+11173,921,82,3,False,Jurassic Park
+11179,62,475,4,True,Trainspotting
+11186,32,475,5,True,Trainspotting
+11222,203,475,3,False,Trainspotting
+11223,214,475,5,True,Trainspotting
+11233,49,475,4,True,Trainspotting
+11236,270,475,5,True,Trainspotting
+11239,150,475,5,True,Trainspotting
+11240,24,475,4,True,Trainspotting
+11241,297,475,5,True,Trainspotting
+11242,198,475,4,True,Trainspotting
+11258,52,475,4,True,Trainspotting
+11259,228,475,3,False,Trainspotting
+11269,324,475,5,True,Trainspotting
+11275,342,475,5,True,Trainspotting
+11287,416,475,2,False,Trainspotting
+11288,417,475,4,True,Trainspotting
+11295,437,475,3,False,Trainspotting
+11298,439,475,3,False,Trainspotting
+11317,490,475,4,True,Trainspotting
+11325,525,475,3,False,Trainspotting
+11341,588,475,2,False,Trainspotting
+11346,601,475,4,True,Trainspotting
+11348,617,475,1,False,Trainspotting
+11363,657,475,4,True,Trainspotting
+11368,668,475,4,True,Trainspotting
+11373,609,475,2,False,Trainspotting
+11375,711,475,5,True,Trainspotting
+11378,735,475,4,True,Trainspotting
+11392,805,475,5,True,Trainspotting
+11399,854,475,4,True,Trainspotting
+11401,859,475,4,True,Trainspotting
+11416,907,475,3,False,Trainspotting
+11429,62,89,5,True,Blade Runner
+11478,214,89,4,True,Blade Runner
+11498,297,89,4,True,Blade Runner
+11499,198,89,5,True,Blade Runner
+11500,253,89,4,True,Blade Runner
+11521,96,89,5,True,Blade Runner
+11533,342,89,3,False,Blade Runner
+11534,354,89,4,True,Blade Runner
+11538,373,89,5,True,Blade Runner
+11550,405,89,1,False,Blade Runner
+11558,417,89,5,True,Blade Runner
+11561,437,89,2,False,Blade Runner
+11582,496,89,5,True,Blade Runner
+11600,555,89,4,True,Blade Runner
+11607,617,89,4,True,Blade Runner
+11611,642,89,2,False,Blade Runner
+11630,698,89,4,True,Blade Runner
+11634,711,89,5,True,Blade Runner
+11635,705,89,2,False,Blade Runner
+11645,751,89,3,False,Blade Runner
+11649,764,89,4,True,Blade Runner
+11664,805,89,4,True,Blade Runner
+11675,854,89,4,True,Blade Runner
+11695,922,89,5,True,Blade Runner
+11733,128,471,4,True,Courage Under Fire
+11737,43,471,3,False,Courage Under Fire
+11741,203,471,4,True,Courage Under Fire
+11750,274,471,4,True,Courage Under Fire
+11754,270,471,5,True,Courage Under Fire
+11757,297,471,3,False,Courage Under Fire
+11770,159,471,4,True,Courage Under Fire
+11771,12,471,5,True,Courage Under Fire
+11774,52,471,4,True,Courage Under Fire
+11778,324,471,5,True,Courage Under Fire
+11781,345,471,3,False,Courage Under Fire
+11786,373,471,3,False,Courage Under Fire
+11798,416,471,5,True,Courage Under Fire
+11818,434,471,2,False,Courage Under Fire
+11820,505,471,4,True,Courage Under Fire
+11835,588,471,5,True,Courage Under Fire
+11841,618,471,3,False,Courage Under Fire
+11842,599,471,4,True,Courage Under Fire
+11848,630,471,4,True,Courage Under Fire
+11865,708,471,4,True,Courage Under Fire
+11868,705,471,5,True,Courage Under Fire
+11872,721,471,5,True,Courage Under Fire
+11886,759,471,4,True,Courage Under Fire
+11894,854,471,2,False,Courage Under Fire
+11905,887,471,3,False,Courage Under Fire
+11907,907,471,5,True,Courage Under Fire
+11911,922,471,3,False,Courage Under Fire
+11915,917,471,4,True,Courage Under Fire
+11916,921,471,2,False,Courage Under Fire
+11923,939,471,5,True,Courage Under Fire
+11958,214,187,4,True,"Godfather: Part II, The"
+11965,165,187,3,False,"Godfather: Part II, The"
+11974,198,187,4,True,"Godfather: Part II, The"
+11976,175,187,4,True,"Godfather: Part II, The"
+11994,96,187,5,True,"Godfather: Part II, The"
+12006,373,187,2,False,"Godfather: Part II, The"
+12012,405,187,5,True,"Godfather: Part II, The"
+12016,416,187,5,True,"Godfather: Part II, The"
+12034,505,187,1,False,"Godfather: Part II, The"
+12056,618,187,5,True,"Godfather: Part II, The"
+12077,698,187,2,False,"Godfather: Part II, The"
+12125,887,187,4,True,"Godfather: Part II, The"
+12128,875,187,4,True,"Godfather: Part II, The"
+12164,128,496,5,True,It's a Wonderful Life
+12167,43,496,5,True,It's a Wonderful Life
+12174,214,496,4,True,It's a Wonderful Life
+12179,230,496,5,True,It's a Wonderful Life
+12183,274,496,5,True,It's a Wonderful Life
+12184,262,496,4,True,It's a Wonderful Life
+12194,253,496,5,True,It's a Wonderful Life
+12195,175,496,5,True,It's a Wonderful Life
+12197,314,496,4,True,It's a Wonderful Life
+12213,342,496,4,True,It's a Wonderful Life
+12214,354,496,3,False,It's a Wonderful Life
+12219,373,496,5,True,It's a Wonderful Life
+12235,416,496,5,True,It's a Wonderful Life
+12236,417,496,3,False,It's a Wonderful Life
+12239,437,496,4,True,It's a Wonderful Life
+12253,496,496,1,False,It's a Wonderful Life
+12256,505,496,5,True,It's a Wonderful Life
+12276,588,496,3,False,It's a Wonderful Life
+12279,601,496,4,True,It's a Wonderful Life
+12281,618,496,4,True,It's a Wonderful Life
+12282,617,496,1,False,It's a Wonderful Life
+12285,630,496,3,False,It's a Wonderful Life
+12286,642,496,4,True,It's a Wonderful Life
+12291,654,496,4,True,It's a Wonderful Life
+12303,698,496,3,False,It's a Wonderful Life
+12307,711,496,5,True,It's a Wonderful Life
+12309,734,496,5,True,It's a Wonderful Life
+12318,764,496,5,True,It's a Wonderful Life
+12352,887,496,4,True,It's a Wonderful Life
+12353,907,496,4,True,It's a Wonderful Life
+12355,875,496,4,True,It's a Wonderful Life
+12365,62,181,4,True,Return of the Jedi
+12382,32,181,4,True,Return of the Jedi
+12423,128,181,4,True,Return of the Jedi
+12429,43,181,4,True,Return of the Jedi
+12439,203,181,5,True,Return of the Jedi
+12443,214,181,3,False,Return of the Jedi
+12455,230,181,4,True,Return of the Jedi
+12463,165,181,5,True,Return of the Jedi
+12464,49,181,1,False,Return of the Jedi
+12465,274,181,5,True,Return of the Jedi
+12468,262,181,3,False,Return of the Jedi
+12475,270,181,4,True,Return of the Jedi
+12481,150,181,5,True,Return of the Jedi
+12483,180,181,2,False,Return of the Jedi
+12486,297,181,4,True,Return of the Jedi
+12487,198,181,4,True,Return of the Jedi
+12522,96,181,5,True,Return of the Jedi
+12536,46,181,4,True,Return of the Jedi
+12540,345,181,4,True,Return of the Jedi
+12544,354,181,4,True,Return of the Jedi
+12550,373,181,5,True,Return of the Jedi
+12563,376,181,4,True,Return of the Jedi
+12573,405,181,5,True,Return of the Jedi
+12581,416,181,5,True,Return of the Jedi
+12583,417,181,3,False,Return of the Jedi
+12589,437,181,4,True,Return of the Jedi
+12620,490,181,4,True,Return of the Jedi
+12626,496,181,5,True,Return of the Jedi
+12628,462,181,4,True,Return of the Jedi
+12635,505,181,3,False,Return of the Jedi
+12640,525,181,4,True,Return of the Jedi
+12649,507,181,5,True,Return of the Jedi
+12655,541,181,5,True,Return of the Jedi
+12662,550,181,5,True,Return of the Jedi
+12672,555,181,5,True,Return of the Jedi
+12680,588,181,5,True,Return of the Jedi
+12691,601,181,5,True,Return of the Jedi
+12694,618,181,5,True,Return of the Jedi
+12695,620,181,4,True,Return of the Jedi
+12706,630,181,3,False,Return of the Jedi
+12707,642,181,5,True,Return of the Jedi
+12714,654,181,3,False,Return of the Jedi
+12726,674,181,4,True,Return of the Jedi
+12731,679,181,5,True,Return of the Jedi
+12739,698,181,3,False,Return of the Jedi
+12743,708,181,5,True,Return of the Jedi
+12747,711,181,4,True,Return of the Jedi
+12749,705,181,5,True,Return of the Jedi
+12751,712,181,5,True,Return of the Jedi
+12752,721,181,5,True,Return of the Jedi
+12758,735,181,4,True,Return of the Jedi
+12768,751,181,5,True,Return of the Jedi
+12783,782,181,3,False,Return of the Jedi
+12795,759,181,5,True,Return of the Jedi
+12801,805,181,3,False,Return of the Jedi
+12843,887,181,5,True,Return of the Jedi
+12845,904,181,3,False,Return of the Jedi
+12849,907,181,4,True,Return of the Jedi
+12851,875,181,4,True,Return of the Jedi
+12857,922,181,5,True,Return of the Jedi
+12862,921,181,5,True,Return of the Jedi
+12872,62,9,4,True,Dead Man Walking
+12883,32,9,3,False,Dead Man Walking
+12916,43,9,4,True,Dead Man Walking
+12934,274,9,5,True,Dead Man Walking
+12939,24,9,5,True,Dead Man Walking
+12944,175,9,4,True,Dead Man Walking
+12946,314,9,4,True,Dead Man Walking
+12962,159,9,3,False,Dead Man Walking
+12980,324,9,5,True,Dead Man Walking
+12985,345,9,4,True,Dead Man Walking
+12987,342,9,5,True,Dead Man Walking
+12988,354,9,3,False,Dead Man Walking
+13007,416,9,5,True,Dead Man Walking
+13035,490,9,4,True,Dead Man Walking
+13036,434,9,1,False,Dead Man Walking
+13066,601,9,4,True,Dead Man Walking
+13067,618,9,3,False,Dead Man Walking
+13076,630,9,2,False,Dead Man Walking
+13085,657,9,4,True,Dead Man Walking
+13093,698,9,3,False,Dead Man Walking
+13096,708,9,1,False,Dead Man Walking
+13102,735,9,4,True,Dead Man Walking
+13115,764,9,4,True,Dead Man Walking
+13127,805,9,3,False,Dead Man Walking
+13132,813,9,3,False,Dead Man Walking
+13133,854,9,5,True,Dead Man Walking
+13148,887,9,2,False,Dead Man Walking
+13149,904,9,4,True,Dead Man Walking
+13159,917,9,5,True,Dead Man Walking
+13168,939,9,5,True,Dead Man Walking
+13171,62,50,5,True,Star Wars
+13191,32,50,4,True,Star Wars
+13233,128,50,4,True,Star Wars
+13239,43,50,4,True,Star Wars
+13250,203,50,5,True,Star Wars
+13254,214,50,3,False,Star Wars
+13269,230,50,5,True,Star Wars
+13278,49,50,1,False,Star Wars
+13279,274,50,5,True,Star Wars
+13282,262,50,2,False,Star Wars
+13290,270,50,5,True,Star Wars
+13297,150,50,5,True,Star Wars
+13300,297,50,5,True,Star Wars
+13301,198,50,5,True,Star Wars
+13308,253,50,4,True,Star Wars
+13310,175,50,5,True,Star Wars
+13338,12,50,4,True,Star Wars
+13347,96,50,5,True,Star Wars
+13361,324,50,5,True,Star Wars
+13366,46,50,4,True,Star Wars
+13372,345,50,5,True,Star Wars
+13376,354,50,4,True,Star Wars
+13385,373,50,5,True,Star Wars
+13410,405,50,5,True,Star Wars
+13421,416,50,5,True,Star Wars
+13423,417,50,3,False,Star Wars
+13432,437,50,5,True,Star Wars
+13469,490,50,5,True,Star Wars
+13475,496,50,5,True,Star Wars
+13480,482,50,4,True,Star Wars
+13484,505,50,3,False,Star Wars
+13497,507,50,5,True,Star Wars
+13503,541,50,5,True,Star Wars
+13510,550,50,5,True,Star Wars
+13524,555,50,5,True,Star Wars
+13533,588,50,5,True,Star Wars
+13544,601,50,5,True,Star Wars
+13547,618,50,5,True,Star Wars
+13549,620,50,4,True,Star Wars
+13563,630,50,3,False,Star Wars
+13564,642,50,5,True,Star Wars
+13572,654,50,5,True,Star Wars
+13586,674,50,4,True,Star Wars
+13589,668,50,5,True,Star Wars
+13593,679,50,5,True,Star Wars
+13601,698,50,5,True,Star Wars
+13605,708,50,5,True,Star Wars
+13610,711,50,4,True,Star Wars
+13612,705,50,4,True,Star Wars
+13614,712,50,4,True,Star Wars
+13616,721,50,5,True,Star Wars
+13621,734,50,4,True,Star Wars
+13624,735,50,5,True,Star Wars
+13637,751,50,5,True,Star Wars
+13648,764,50,3,False,Star Wars
+13657,782,50,3,False,Star Wars
+13670,759,50,4,True,Star Wars
+13677,805,50,4,True,Star Wars
+13696,854,50,4,True,Star Wars
+13723,887,50,5,True,Star Wars
+13728,907,50,4,True,Star Wars
+13730,875,50,5,True,Star Wars
+13736,922,50,5,True,Star Wars
+13742,917,50,3,False,Star Wars
+13743,921,50,4,True,Star Wars
+13751,930,50,2,False,Star Wars
+13754,62,22,4,True,Braveheart
+13759,38,22,5,True,Braveheart
+13812,214,22,3,False,Braveheart
+13821,230,22,5,True,Braveheart
+13828,223,22,5,True,Braveheart
+13831,262,22,4,True,Braveheart
+13839,297,22,4,True,Braveheart
+13840,253,22,5,True,Braveheart
+13843,314,22,4,True,Braveheart
+13851,52,22,5,True,Braveheart
+13871,373,22,5,True,Braveheart
+13879,405,22,5,True,Braveheart
+13884,416,22,5,True,Braveheart
+13885,404,22,5,True,Braveheart
+13910,496,22,4,True,Braveheart
+13912,462,22,5,True,Braveheart
+13914,505,22,5,True,Braveheart
+13936,588,22,5,True,Braveheart
+13942,601,22,4,True,Braveheart
+13945,618,22,4,True,Braveheart
+13953,630,22,3,False,Braveheart
+13954,642,22,4,True,Braveheart
+13962,654,22,5,True,Braveheart
+13974,698,22,1,False,Braveheart
+13980,711,22,4,True,Braveheart
+13981,705,22,5,True,Braveheart
+13982,721,22,5,True,Braveheart
+13985,734,22,3,False,Braveheart
+13999,764,22,4,True,Braveheart
+14011,805,22,1,False,Braveheart
+14021,854,22,2,False,Braveheart
+14040,887,22,5,True,Braveheart
+14042,875,22,3,False,Braveheart
+14045,922,22,5,True,Braveheart
+14051,62,7,4,True,Twelve Monkeys
+14069,32,7,4,True,Twelve Monkeys
+14107,43,7,4,True,Twelve Monkeys
+14112,203,7,3,False,Twelve Monkeys
+14114,214,7,5,True,Twelve Monkeys
+14125,230,7,3,False,Twelve Monkeys
+14134,49,7,4,True,Twelve Monkeys
+14137,262,7,4,True,Twelve Monkeys
+14143,270,7,4,True,Twelve Monkeys
+14149,24,7,4,True,Twelve Monkeys
+14152,297,7,4,True,Twelve Monkeys
+14153,198,7,4,True,Twelve Monkeys
+14159,314,7,4,True,Twelve Monkeys
+14179,159,7,5,True,Twelve Monkeys
+14182,52,7,5,True,Twelve Monkeys
+14186,96,7,5,True,Twelve Monkeys
+14198,46,7,4,True,Twelve Monkeys
+14204,342,7,4,True,Twelve Monkeys
+14205,348,7,4,True,Twelve Monkeys
+14206,354,7,4,True,Twelve Monkeys
+14221,372,7,3,False,Twelve Monkeys
+14227,366,7,2,False,Twelve Monkeys
+14235,416,7,4,True,Twelve Monkeys
+14237,417,7,3,False,Twelve Monkeys
+14248,439,7,4,True,Twelve Monkeys
+14271,490,7,3,False,Twelve Monkeys
+14272,434,7,1,False,Twelve Monkeys
+14275,496,7,4,True,Twelve Monkeys
+14280,505,7,3,False,Twelve Monkeys
+14283,525,7,3,False,Twelve Monkeys
+14304,555,7,4,True,Twelve Monkeys
+14307,588,7,3,False,Twelve Monkeys
+14313,618,7,4,True,Twelve Monkeys
+14315,617,7,3,False,Twelve Monkeys
+14317,620,7,4,True,Twelve Monkeys
+14327,630,7,4,True,Twelve Monkeys
+14340,657,7,3,False,Twelve Monkeys
+14363,735,7,3,False,Twelve Monkeys
+14370,751,7,3,False,Twelve Monkeys
+14376,764,7,4,True,Twelve Monkeys
+14393,805,7,5,True,Twelve Monkeys
+14406,854,7,4,True,Twelve Monkeys
+14425,887,7,4,True,Twelve Monkeys
+14443,62,183,4,True,Alien
+14500,230,183,3,False,Alien
+14512,270,183,5,True,Alien
+14516,297,183,4,True,Alien
+14517,198,183,5,True,Alien
+14518,253,183,5,True,Alien
+14519,175,183,4,True,Alien
+14534,96,183,4,True,Alien
+14562,372,183,5,True,Alien
+14565,405,183,1,False,Alien
+14570,416,183,5,True,Alien
+14571,417,183,4,True,Alien
+14574,437,183,3,False,Alien
+14597,496,183,2,False,Alien
+14605,505,183,3,False,Alien
+14628,601,183,4,True,Alien
+14631,618,183,4,True,Alien
+14633,617,183,4,True,Alien
+14660,698,183,3,False,Alien
+14665,705,183,2,False,Alien
+14692,805,183,5,True,Alien
+14717,887,183,1,False,Alien
+14719,875,183,5,True,Alien
+14725,922,183,3,False,Alien
+14734,62,4,4,True,Get Shorty
+14764,43,4,4,True,Get Shorty
+14777,49,4,2,False,Get Shorty
+14782,297,4,1,False,Get Shorty
+14783,198,4,3,False,Get Shorty
+14785,253,4,4,True,Get Shorty
+14795,12,4,5,True,Get Shorty
+14806,345,4,4,True,Get Shorty
+14809,342,4,4,True,Get Shorty
+14812,373,4,4,True,Get Shorty
+14823,405,4,4,True,Get Shorty
+14827,416,4,4,True,Get Shorty
+14830,417,4,3,False,Get Shorty
+14870,618,4,2,False,Get Shorty
+14877,642,4,3,False,Get Shorty
+14883,654,4,4,True,Get Shorty
+14898,712,4,4,True,Get Shorty
+14906,764,4,3,False,Get Shorty
+14916,805,4,2,False,Get Shorty
+14920,854,4,2,False,Get Shorty
+14935,875,4,3,False,Get Shorty
+14943,62,357,4,True,One Flew Over the Cuckoo's Nest
+14997,214,357,5,True,One Flew Over the Cuckoo's Nest
+15002,230,357,5,True,One Flew Over the Cuckoo's Nest
+15010,24,357,5,True,One Flew Over the Cuckoo's Nest
+15013,297,357,4,True,One Flew Over the Cuckoo's Nest
+15014,198,357,5,True,One Flew Over the Cuckoo's Nest
+15045,342,357,3,False,One Flew Over the Cuckoo's Nest
+15048,373,357,4,True,One Flew Over the Cuckoo's Nest
+15054,376,357,4,True,One Flew Over the Cuckoo's Nest
+15058,405,357,5,True,One Flew Over the Cuckoo's Nest
+15065,416,357,5,True,One Flew Over the Cuckoo's Nest
+15067,417,357,5,True,One Flew Over the Cuckoo's Nest
+15105,555,357,4,True,One Flew Over the Cuckoo's Nest
+15113,601,357,4,True,One Flew Over the Cuckoo's Nest
+15114,617,357,4,True,One Flew Over the Cuckoo's Nest
+15123,630,357,3,False,One Flew Over the Cuckoo's Nest
+15124,642,357,2,False,One Flew Over the Cuckoo's Nest
+15141,679,357,5,True,One Flew Over the Cuckoo's Nest
+15147,698,357,4,True,One Flew Over the Cuckoo's Nest
+15150,721,357,5,True,One Flew Over the Cuckoo's Nest
+15173,805,357,5,True,One Flew Over the Cuckoo's Nest
+15181,854,357,4,True,One Flew Over the Cuckoo's Nest
+15195,875,357,5,True,One Flew Over the Cuckoo's Nest
+15207,62,96,4,True,Terminator 2: Judgment Day
+15260,230,96,2,False,Terminator 2: Judgment Day
+15266,49,96,1,False,Terminator 2: Judgment Day
+15268,262,96,4,True,Terminator 2: Judgment Day
+15277,198,96,4,True,Terminator 2: Judgment Day
+15280,253,96,5,True,Terminator 2: Judgment Day
+15281,175,96,3,False,Terminator 2: Judgment Day
+15295,159,96,4,True,Terminator 2: Judgment Day
+15296,12,96,4,True,Terminator 2: Judgment Day
+15301,96,96,4,True,Terminator 2: Judgment Day
+15315,373,96,4,True,Terminator 2: Judgment Day
+15327,405,96,3,False,Terminator 2: Judgment Day
+15332,416,96,4,True,Terminator 2: Judgment Day
+15334,417,96,3,False,Terminator 2: Judgment Day
+15361,496,96,4,True,Terminator 2: Judgment Day
+15366,505,96,4,True,Terminator 2: Judgment Day
+15388,601,96,2,False,Terminator 2: Judgment Day
+15391,618,96,3,False,Terminator 2: Judgment Day
+15399,630,96,4,True,Terminator 2: Judgment Day
+15400,642,96,5,True,Terminator 2: Judgment Day
+15422,698,96,4,True,Terminator 2: Judgment Day
+15428,705,96,5,True,Terminator 2: Judgment Day
+15429,712,96,5,True,Terminator 2: Judgment Day
+15439,751,96,4,True,Terminator 2: Judgment Day
+15455,805,96,4,True,Terminator 2: Judgment Day
+15465,854,96,3,False,Terminator 2: Judgment Day
+15484,887,96,4,True,Terminator 2: Judgment Day
+15487,907,96,5,True,Terminator 2: Judgment Day
+15489,875,96,4,True,Terminator 2: Judgment Day
+15496,921,96,4,True,Terminator 2: Judgment Day
+15502,62,273,4,True,Heat
+15543,150,273,4,True,Heat
+15545,297,273,4,True,Heat
+15547,253,273,3,False,Heat
+15548,175,273,2,False,Heat
+15561,159,273,5,True,Heat
+15571,324,273,5,True,Heat
+15587,372,273,5,True,Heat
+15597,416,273,4,True,Heat
+15598,417,273,3,False,Heat
+15608,439,273,2,False,Heat
+15624,490,273,1,False,Heat
+15648,618,273,4,True,Heat
+15655,630,273,5,True,Heat
+15662,657,273,3,False,Heat
+15682,764,273,3,False,Heat
+15692,805,273,2,False,Heat
+15697,854,273,4,True,Heat
+15703,872,273,3,False,Heat
+15725,62,174,4,True,Raiders of the Lost Ark
+15780,128,174,3,False,Raiders of the Lost Ark
+15786,43,174,4,True,Raiders of the Lost Ark
+15798,214,174,4,True,Raiders of the Lost Ark
+15807,230,174,5,True,Raiders of the Lost Ark
+15816,165,174,4,True,Raiders of the Lost Ark
+15817,49,174,1,False,Raiders of the Lost Ark
+15820,262,174,3,False,Raiders of the Lost Ark
+15833,297,174,5,True,Raiders of the Lost Ark
+15834,198,174,5,True,Raiders of the Lost Ark
+15855,12,174,5,True,Raiders of the Lost Ark
+15862,96,174,5,True,Raiders of the Lost Ark
+15875,345,174,4,True,Raiders of the Lost Ark
+15879,342,174,2,False,Raiders of the Lost Ark
+15880,354,174,4,True,Raiders of the Lost Ark
+15886,373,174,4,True,Raiders of the Lost Ark
+15902,405,174,5,True,Raiders of the Lost Ark
+15909,416,174,5,True,Raiders of the Lost Ark
+15912,417,174,3,False,Raiders of the Lost Ark
+15919,437,174,5,True,Raiders of the Lost Ark
+15950,496,174,4,True,Raiders of the Lost Ark
+15958,505,174,4,True,Raiders of the Lost Ark
+15969,541,174,4,True,Raiders of the Lost Ark
+15981,588,174,3,False,Raiders of the Lost Ark
+15988,601,174,4,True,Raiders of the Lost Ark
+15991,618,174,5,True,Raiders of the Lost Ark
+15992,617,174,1,False,Raiders of the Lost Ark
+15993,620,174,5,True,Raiders of the Lost Ark
+16003,630,174,3,False,Raiders of the Lost Ark
+16004,642,174,5,True,Raiders of the Lost Ark
+16011,654,174,5,True,Raiders of the Lost Ark
+16025,679,174,3,False,Raiders of the Lost Ark
+16031,698,174,3,False,Raiders of the Lost Ark
+16039,705,174,5,True,Raiders of the Lost Ark
+16040,712,174,5,True,Raiders of the Lost Ark
+16041,721,174,5,True,Raiders of the Lost Ark
+16043,734,174,4,True,Raiders of the Lost Ark
+16054,751,174,4,True,Raiders of the Lost Ark
+16060,764,174,5,True,Raiders of the Lost Ark
+16079,805,174,3,False,Raiders of the Lost Ark
+16096,854,174,3,False,Raiders of the Lost Ark
+16098,849,174,5,True,Raiders of the Lost Ark
+16122,875,174,5,True,Raiders of the Lost Ark
+16129,922,174,5,True,Raiders of the Lost Ark
+16136,921,174,5,True,Raiders of the Lost Ark
+16142,930,174,3,False,Raiders of the Lost Ark
+16145,62,176,5,True,Aliens
+16198,230,176,4,True,Aliens
+16204,165,176,4,True,Aliens
+16211,270,176,4,True,Aliens
+16215,24,176,5,True,Aliens
+16218,297,176,4,True,Aliens
+16219,198,176,4,True,Aliens
+16221,175,176,3,False,Aliens
+16238,96,176,4,True,Aliens
+16266,372,176,3,False,Aliens
+16270,405,176,1,False,Aliens
+16276,416,176,4,True,Aliens
+16277,417,176,5,True,Aliens
+16280,437,176,2,False,Aliens
+16306,505,176,4,True,Aliens
+16329,601,176,2,False,Aliens
+16332,618,176,4,True,Aliens
+16357,698,176,4,True,Aliens
+16373,764,176,4,True,Aliens
+16386,805,176,4,True,Aliens
+16398,854,176,3,False,Aliens
+16415,887,176,5,True,Aliens
+16418,875,176,4,True,Aliens
+16421,922,176,3,False,Aliens
+16427,930,176,3,False,Aliens
+16463,128,282,3,False,"Time to Kill, A"
+16470,203,282,1,False,"Time to Kill, A"
+16480,223,282,4,True,"Time to Kill, A"
+16481,274,282,5,True,"Time to Kill, A"
+16486,270,282,3,False,"Time to Kill, A"
+16488,297,282,3,False,"Time to Kill, A"
+16491,253,282,4,True,"Time to Kill, A"
+16494,314,282,5,True,"Time to Kill, A"
+16505,12,282,5,True,"Time to Kill, A"
+16506,52,282,4,True,"Time to Kill, A"
+16512,324,282,5,True,"Time to Kill, A"
+16514,345,282,3,False,"Time to Kill, A"
+16516,342,282,1,False,"Time to Kill, A"
+16528,416,282,5,True,"Time to Kill, A"
+16535,439,282,3,False,"Time to Kill, A"
+16554,477,282,4,True,"Time to Kill, A"
+16556,525,282,4,True,"Time to Kill, A"
+16568,588,282,5,True,"Time to Kill, A"
+16574,618,282,3,False,"Time to Kill, A"
+16575,599,282,5,True,"Time to Kill, A"
+16582,630,282,3,False,"Time to Kill, A"
+16584,654,282,3,False,"Time to Kill, A"
+16590,657,282,3,False,"Time to Kill, A"
+16592,674,282,5,True,"Time to Kill, A"
+16603,705,282,5,True,"Time to Kill, A"
+16606,721,282,4,True,"Time to Kill, A"
+16610,734,282,4,True,"Time to Kill, A"
+16619,764,282,4,True,"Time to Kill, A"
+16632,854,282,2,False,"Time to Kill, A"
+16633,859,282,3,False,"Time to Kill, A"
+16638,872,282,5,True,"Time to Kill, A"
+16646,907,282,4,True,"Time to Kill, A"
+16652,917,282,4,True,"Time to Kill, A"
+16653,921,282,2,False,"Time to Kill, A"
+16658,930,282,4,True,"Time to Kill, A"
+16664,38,185,2,False,Psycho
+16700,214,185,5,True,Psycho
+16706,230,185,4,True,Psycho
+16713,49,185,5,True,Psycho
+16714,223,185,2,False,Psycho
+16716,262,185,3,False,Psycho
+16719,270,185,5,True,Psycho
+16724,297,185,5,True,Psycho
+16725,198,185,3,False,Psycho
+16746,96,185,5,True,Psycho
+16755,354,185,3,False,Psycho
+16764,372,185,5,True,Psycho
+16767,366,185,5,True,Psycho
+16768,405,185,4,True,Psycho
+16774,416,185,4,True,Psycho
+16775,417,185,3,False,Psycho
+16780,437,185,5,True,Psycho
+16819,601,185,4,True,Psycho
+16822,618,185,5,True,Psycho
+16824,617,185,5,True,Psycho
+16848,711,185,4,True,Psycho
+16866,805,185,5,True,Psycho
+16875,854,185,4,True,Psycho
+16888,907,185,4,True,Psycho
+16889,875,185,4,True,Psycho
+16896,921,185,3,False,Psycho
+16898,925,185,4,True,Psycho
+16900,62,508,4,True,"People vs. Larry Flynt, The"
+16903,38,508,2,False,"People vs. Larry Flynt, The"
+16910,32,508,4,True,"People vs. Larry Flynt, The"
+16932,128,508,4,True,"People vs. Larry Flynt, The"
+16943,214,508,4,True,"People vs. Larry Flynt, The"
+16952,49,508,3,False,"People vs. Larry Flynt, The"
+16956,24,508,4,True,"People vs. Larry Flynt, The"
+16958,297,508,4,True,"People vs. Larry Flynt, The"
+16960,175,508,1,False,"People vs. Larry Flynt, The"
+16963,314,508,3,False,"People vs. Larry Flynt, The"
+16982,324,508,5,True,"People vs. Larry Flynt, The"
+16986,345,508,4,True,"People vs. Larry Flynt, The"
+16989,342,508,3,False,"People vs. Larry Flynt, The"
+16990,354,508,3,False,"People vs. Larry Flynt, The"
+17006,417,508,3,False,"People vs. Larry Flynt, The"
+17049,601,508,4,True,"People vs. Larry Flynt, The"
+17052,599,508,3,False,"People vs. Larry Flynt, The"
+17062,654,508,1,False,"People vs. Larry Flynt, The"
+17067,657,508,4,True,"People vs. Larry Flynt, The"
+17074,708,508,4,True,"People vs. Larry Flynt, The"
+17095,854,508,4,True,"People vs. Larry Flynt, The"
+17112,939,508,5,True,"People vs. Larry Flynt, The"
+17114,62,182,5,True,GoodFellas
+17145,128,182,4,True,GoodFellas
+17154,214,182,4,True,GoodFellas
+17159,230,182,2,False,GoodFellas
+17164,49,182,3,False,GoodFellas
+17173,297,182,3,False,GoodFellas
+17174,198,182,4,True,GoodFellas
+17176,253,182,3,False,GoodFellas
+17189,96,182,4,True,GoodFellas
+17201,342,182,5,True,GoodFellas
+17215,405,182,1,False,GoodFellas
+17220,416,182,4,True,GoodFellas
+17223,417,182,4,True,GoodFellas
+17227,437,182,2,False,GoodFellas
+17249,505,182,1,False,GoodFellas
+17271,618,182,4,True,GoodFellas
+17332,907,182,5,True,GoodFellas
+17340,62,132,5,True,"Wizard of Oz, The"
+17375,128,132,3,False,"Wizard of Oz, The"
+17385,214,132,5,True,"Wizard of Oz, The"
+17390,230,132,5,True,"Wizard of Oz, The"
+17397,262,132,3,False,"Wizard of Oz, The"
+17404,24,132,3,False,"Wizard of Oz, The"
+17407,198,132,4,True,"Wizard of Oz, The"
+17409,253,132,5,True,"Wizard of Oz, The"
+17410,175,132,3,False,"Wizard of Oz, The"
+17412,314,132,4,True,"Wizard of Oz, The"
+17420,12,132,5,True,"Wizard of Oz, The"
+17435,345,132,5,True,"Wizard of Oz, The"
+17438,342,132,5,True,"Wizard of Oz, The"
+17441,373,132,3,False,"Wizard of Oz, The"
+17450,405,132,5,True,"Wizard of Oz, The"
+17456,416,132,4,True,"Wizard of Oz, The"
+17457,417,132,4,True,"Wizard of Oz, The"
+17462,437,132,5,True,"Wizard of Oz, The"
+17475,496,132,3,False,"Wizard of Oz, The"
+17482,505,132,5,True,"Wizard of Oz, The"
+17503,588,132,5,True,"Wizard of Oz, The"
+17507,601,132,5,True,"Wizard of Oz, The"
+17509,618,132,4,True,"Wizard of Oz, The"
+17510,617,132,1,False,"Wizard of Oz, The"
+17514,642,132,3,False,"Wizard of Oz, The"
+17525,679,132,4,True,"Wizard of Oz, The"
+17528,698,132,4,True,"Wizard of Oz, The"
+17532,711,132,5,True,"Wizard of Oz, The"
+17534,734,132,3,False,"Wizard of Oz, The"
+17542,764,132,5,True,"Wizard of Oz, The"
+17559,854,132,5,True,"Wizard of Oz, The"
+17576,887,132,4,True,"Wizard of Oz, The"
+17581,921,132,3,False,"Wizard of Oz, The"
+17586,62,111,3,False,"Truth About Cats & Dogs, The"
+17598,32,111,3,False,"Truth About Cats & Dogs, The"
+17623,128,111,3,False,"Truth About Cats & Dogs, The"
+17626,43,111,4,True,"Truth About Cats & Dogs, The"
+17645,49,111,2,False,"Truth About Cats & Dogs, The"
+17646,223,111,4,True,"Truth About Cats & Dogs, The"
+17647,274,111,4,True,"Truth About Cats & Dogs, The"
+17648,262,111,4,True,"Truth About Cats & Dogs, The"
+17651,180,111,5,True,"Truth About Cats & Dogs, The"
+17652,297,111,3,False,"Truth About Cats & Dogs, The"
+17657,175,111,4,True,"Truth About Cats & Dogs, The"
+17660,314,111,4,True,"Truth About Cats & Dogs, The"
+17664,304,111,3,False,"Truth About Cats & Dogs, The"
+17671,159,111,4,True,"Truth About Cats & Dogs, The"
+17674,52,111,4,True,"Truth About Cats & Dogs, The"
+17681,345,111,4,True,"Truth About Cats & Dogs, The"
+17683,342,111,3,False,"Truth About Cats & Dogs, The"
+17684,348,111,5,True,"Truth About Cats & Dogs, The"
+17694,376,111,4,True,"Truth About Cats & Dogs, The"
+17700,416,111,4,True,"Truth About Cats & Dogs, The"
+17701,417,111,3,False,"Truth About Cats & Dogs, The"
+17705,437,111,3,False,"Truth About Cats & Dogs, The"
+17723,434,111,5,True,"Truth About Cats & Dogs, The"
+17728,477,111,5,True,"Truth About Cats & Dogs, The"
+17731,525,111,4,True,"Truth About Cats & Dogs, The"
+17736,541,111,1,False,"Truth About Cats & Dogs, The"
+17746,555,111,4,True,"Truth About Cats & Dogs, The"
+17748,588,111,1,False,"Truth About Cats & Dogs, The"
+17753,618,111,3,False,"Truth About Cats & Dogs, The"
+17754,599,111,5,True,"Truth About Cats & Dogs, The"
+17762,630,111,5,True,"Truth About Cats & Dogs, The"
+17766,654,111,4,True,"Truth About Cats & Dogs, The"
+17771,657,111,5,True,"Truth About Cats & Dogs, The"
+17773,674,111,5,True,"Truth About Cats & Dogs, The"
+17776,679,111,3,False,"Truth About Cats & Dogs, The"
+17781,708,111,4,True,"Truth About Cats & Dogs, The"
+17785,711,111,2,False,"Truth About Cats & Dogs, The"
+17787,705,111,4,True,"Truth About Cats & Dogs, The"
+17791,721,111,4,True,"Truth About Cats & Dogs, The"
+17794,734,111,3,False,"Truth About Cats & Dogs, The"
+17797,751,111,3,False,"Truth About Cats & Dogs, The"
+17803,764,111,4,True,"Truth About Cats & Dogs, The"
+17816,805,111,3,False,"Truth About Cats & Dogs, The"
+17823,854,111,3,False,"Truth About Cats & Dogs, The"
+17825,859,111,4,True,"Truth About Cats & Dogs, The"
+17828,822,111,4,True,"Truth About Cats & Dogs, The"
+17831,872,111,4,True,"Truth About Cats & Dogs, The"
+17840,887,111,5,True,"Truth About Cats & Dogs, The"
+17842,904,111,4,True,"Truth About Cats & Dogs, The"
+17844,907,111,5,True,"Truth About Cats & Dogs, The"
+17852,921,111,4,True,"Truth About Cats & Dogs, The"
+17858,62,28,3,False,Apollo 13
+17864,38,28,4,True,Apollo 13
+17902,128,28,5,True,Apollo 13
+17904,43,28,4,True,Apollo 13
+17915,230,28,5,True,Apollo 13
+17920,223,28,4,True,Apollo 13
+17922,262,28,3,False,Apollo 13
+17929,180,28,3,False,Apollo 13
+17931,297,28,4,True,Apollo 13
+17938,314,28,5,True,Apollo 13
+17951,12,28,5,True,Apollo 13
+17965,345,28,3,False,Apollo 13
+17967,342,28,2,False,Apollo 13
+17971,373,28,3,False,Apollo 13
+17981,405,28,4,True,Apollo 13
+17986,416,28,5,True,Apollo 13
+17990,437,28,3,False,Apollo 13
+18008,496,28,2,False,Apollo 13
+18021,541,28,4,True,Apollo 13
+18028,588,28,5,True,Apollo 13
+18032,618,28,4,True,Apollo 13
+18034,620,28,4,True,Apollo 13
+18044,642,28,5,True,Apollo 13
+18047,654,28,5,True,Apollo 13
+18055,679,28,5,True,Apollo 13
+18058,698,28,2,False,Apollo 13
+18064,705,28,4,True,Apollo 13
+18065,721,28,5,True,Apollo 13
+18067,734,28,4,True,Apollo 13
+18074,751,28,5,True,Apollo 13
+18079,764,28,4,True,Apollo 13
+18096,805,28,3,False,Apollo 13
+18119,887,28,5,True,Apollo 13
+18122,875,28,4,True,Apollo 13
+18134,62,135,4,True,2001: A Space Odyssey
+18188,214,135,3,False,2001: A Space Odyssey
+18192,230,135,2,False,2001: A Space Odyssey
+18205,297,135,4,True,2001: A Space Odyssey
+18206,198,135,5,True,2001: A Space Odyssey
+18232,342,135,3,False,2001: A Space Odyssey
+18233,354,135,3,False,2001: A Space Odyssey
+18234,373,135,1,False,2001: A Space Odyssey
+18250,405,135,5,True,2001: A Space Odyssey
+18257,417,135,3,False,2001: A Space Odyssey
+18259,437,135,4,True,2001: A Space Odyssey
+18276,496,135,2,False,2001: A Space Odyssey
+18303,601,135,4,True,2001: A Space Odyssey
+18305,618,135,4,True,2001: A Space Odyssey
+18313,642,135,3,False,2001: A Space Odyssey
+18327,698,135,3,False,2001: A Space Odyssey
+18332,711,135,4,True,2001: A Space Odyssey
+18334,721,135,3,False,2001: A Space Odyssey
+18358,805,135,4,True,2001: A Space Odyssey
+18366,854,135,4,True,2001: A Space Odyssey
+18383,875,135,4,True,2001: A Space Odyssey
+18385,922,135,2,False,2001: A Space Odyssey
+18393,62,153,4,True,"Fish Called Wanda, A"
+18398,38,153,5,True,"Fish Called Wanda, A"
+18435,43,153,5,True,"Fish Called Wanda, A"
+18447,230,153,5,True,"Fish Called Wanda, A"
+18453,262,153,3,False,"Fish Called Wanda, A"
+18459,24,153,4,True,"Fish Called Wanda, A"
+18460,180,153,1,False,"Fish Called Wanda, A"
+18462,297,153,5,True,"Fish Called Wanda, A"
+18463,198,153,4,True,"Fish Called Wanda, A"
+18465,253,153,3,False,"Fish Called Wanda, A"
+18480,96,153,4,True,"Fish Called Wanda, A"
+18490,342,153,4,True,"Fish Called Wanda, A"
+18491,354,153,3,False,"Fish Called Wanda, A"
+18495,373,153,5,True,"Fish Called Wanda, A"
+18512,416,153,4,True,"Fish Called Wanda, A"
+18513,417,153,5,True,"Fish Called Wanda, A"
+18515,437,153,5,True,"Fish Called Wanda, A"
+18555,601,153,4,True,"Fish Called Wanda, A"
+18563,630,153,3,False,"Fish Called Wanda, A"
+18564,642,153,3,False,"Fish Called Wanda, A"
+18569,654,153,4,True,"Fish Called Wanda, A"
+18579,679,153,2,False,"Fish Called Wanda, A"
+18581,698,153,2,False,"Fish Called Wanda, A"
+18585,721,153,4,True,"Fish Called Wanda, A"
+18592,751,153,4,True,"Fish Called Wanda, A"
+18605,805,153,4,True,"Fish Called Wanda, A"
+18614,854,153,4,True,"Fish Called Wanda, A"
+18631,922,153,4,True,"Fish Called Wanda, A"
+18637,930,153,2,False,"Fish Called Wanda, A"
+18640,62,173,5,True,"Princess Bride, The"
+18684,128,173,5,True,"Princess Bride, The"
+18688,43,173,5,True,"Princess Bride, The"
+18693,214,173,4,True,"Princess Bride, The"
+18705,49,173,3,False,"Princess Bride, The"
+18706,223,173,5,True,"Princess Bride, The"
+18710,270,173,5,True,"Princess Bride, The"
+18714,24,173,5,True,"Princess Bride, The"
+18715,180,173,5,True,"Princess Bride, The"
+18717,297,173,4,True,"Princess Bride, The"
+18718,198,173,4,True,"Princess Bride, The"
+18723,253,173,5,True,"Princess Bride, The"
+18725,314,173,1,False,"Princess Bride, The"
+18745,96,173,3,False,"Princess Bride, The"
+18757,345,173,5,True,"Princess Bride, The"
+18760,354,173,3,False,"Princess Bride, The"
+18765,373,173,5,True,"Princess Bride, The"
+18780,405,173,5,True,"Princess Bride, The"
+18787,416,173,5,True,"Princess Bride, The"
+18789,417,173,5,True,"Princess Bride, The"
+18792,437,173,4,True,"Princess Bride, The"
+18815,496,173,5,True,"Princess Bride, The"
+18822,505,173,3,False,"Princess Bride, The"
+18829,541,173,5,True,"Princess Bride, The"
+18843,588,173,5,True,"Princess Bride, The"
+18847,601,173,5,True,"Princess Bride, The"
+18850,618,173,3,False,"Princess Bride, The"
+18851,620,173,5,True,"Princess Bride, The"
+18857,642,173,5,True,"Princess Bride, The"
+18864,654,173,5,True,"Princess Bride, The"
+18876,679,173,5,True,"Princess Bride, The"
+18878,698,173,5,True,"Princess Bride, The"
+18884,711,173,3,False,"Princess Bride, The"
+18885,705,173,2,False,"Princess Bride, The"
+18886,712,173,5,True,"Princess Bride, The"
+18887,721,173,5,True,"Princess Bride, The"
+18890,734,173,3,False,"Princess Bride, The"
+18898,751,173,4,True,"Princess Bride, The"
+18906,764,173,3,False,"Princess Bride, The"
+18917,805,173,4,True,"Princess Bride, The"
+18928,854,173,4,True,"Princess Bride, The"
+18946,904,173,3,False,"Princess Bride, The"
+18947,907,173,4,True,"Princess Bride, The"
+18949,875,173,5,True,"Princess Bride, The"
+18954,922,173,5,True,"Princess Bride, The"
+18959,921,173,5,True,"Princess Bride, The"
+18964,62,179,4,True,"Clockwork Orange, A"
+18994,128,179,3,False,"Clockwork Orange, A"
+19003,214,179,5,True,"Clockwork Orange, A"
+19012,49,179,5,True,"Clockwork Orange, A"
+19015,262,179,4,True,"Clockwork Orange, A"
+19021,198,179,4,True,"Clockwork Orange, A"
+19044,342,179,5,True,"Clockwork Orange, A"
+19049,373,179,3,False,"Clockwork Orange, A"
+19059,405,179,1,False,"Clockwork Orange, A"
+19065,416,179,2,False,"Clockwork Orange, A"
+19066,417,179,4,True,"Clockwork Orange, A"
+19070,437,179,4,True,"Clockwork Orange, A"
+19109,601,179,5,True,"Clockwork Orange, A"
+19111,617,179,4,True,"Clockwork Orange, A"
+19131,721,179,5,True,"Clockwork Orange, A"
+19138,751,179,4,True,"Clockwork Orange, A"
+19150,805,179,4,True,"Clockwork Orange, A"
+19177,875,179,5,True,"Clockwork Orange, A"
+19185,62,235,4,True,Mars Attacks!
+19195,32,235,3,False,Mars Attacks!
+19222,43,235,3,False,Mars Attacks!
+19236,49,235,2,False,Mars Attacks!
+19239,262,235,2,False,Mars Attacks!
+19245,150,235,4,True,Mars Attacks!
+19247,180,235,4,True,Mars Attacks!
+19249,297,235,2,False,Mars Attacks!
+19259,52,235,2,False,Mars Attacks!
+19272,345,235,3,False,Mars Attacks!
+19291,416,235,2,False,Mars Attacks!
+19292,417,235,2,False,Mars Attacks!
+19318,541,235,1,False,Mars Attacks!
+19324,555,235,3,False,Mars Attacks!
+19338,642,235,2,False,Mars Attacks!
+19374,805,235,2,False,Mars Attacks!
+19380,854,235,2,False,Mars Attacks!
+19383,822,235,3,False,Mars Attacks!
+19392,887,235,3,False,Mars Attacks!
+19394,907,235,4,True,Mars Attacks!
+19396,922,235,2,False,Mars Attacks!
+19400,930,235,2,False,Mars Attacks!
+19402,62,318,5,True,Schindler's List
+19406,38,318,3,False,Schindler's List
+19444,43,318,5,True,Schindler's List
+19452,214,318,4,True,Schindler's List
+19462,165,318,5,True,Schindler's List
+19463,223,318,4,True,Schindler's List
+19464,274,318,5,True,Schindler's List
+19465,262,318,5,True,Schindler's List
+19470,24,318,5,True,Schindler's List
+19471,180,318,5,True,Schindler's List
+19473,198,318,4,True,Schindler's List
+19477,253,318,5,True,Schindler's List
+19479,314,318,5,True,Schindler's List
+19494,12,318,5,True,Schindler's List
+19495,52,318,5,True,Schindler's List
+19499,96,318,5,True,Schindler's List
+19511,345,318,5,True,Schindler's List
+19513,354,318,3,False,Schindler's List
+19515,373,318,5,True,Schindler's List
+19526,405,318,5,True,Schindler's List
+19531,416,318,5,True,Schindler's List
+19538,437,318,4,True,Schindler's List
+19561,496,318,4,True,Schindler's List
+19587,555,318,4,True,Schindler's List
+19591,588,318,4,True,Schindler's List
+19596,601,318,4,True,Schindler's List
+19598,618,318,5,True,Schindler's List
+19605,642,318,2,False,Schindler's List
+19609,654,318,5,True,Schindler's List
+19622,679,318,5,True,Schindler's List
+19632,711,318,5,True,Schindler's List
+19633,705,318,5,True,Schindler's List
+19634,721,318,4,True,Schindler's List
+19636,734,318,5,True,Schindler's List
+19643,764,318,5,True,Schindler's List
+19667,854,318,5,True,Schindler's List
+19684,887,318,5,True,Schindler's List
+19687,907,318,5,True,Schindler's List
+19700,62,180,4,True,Apocalypse Now
+19728,128,180,5,True,Apocalypse Now
+19737,214,180,5,True,Apocalypse Now
+19753,24,180,5,True,Apocalypse Now
+19756,198,180,3,False,Apocalypse Now
+19785,354,180,3,False,Apocalypse Now
+19789,373,180,3,False,Apocalypse Now
+19798,405,180,3,False,Apocalypse Now
+19804,417,180,5,True,Apocalypse Now
+19807,437,180,4,True,Apocalypse Now
+19864,711,180,4,True,Apocalypse Now
+19886,805,180,3,False,Apocalypse Now
+19896,854,180,4,True,Apocalypse Now
+19911,887,180,4,True,Apocalypse Now
+19915,875,180,5,True,Apocalypse Now
+19921,62,125,4,True,Phenomenon
+19966,230,125,5,True,Phenomenon
+19972,223,125,3,False,Phenomenon
+19973,274,125,4,True,Phenomenon
+19974,262,125,3,False,Phenomenon
+19984,253,125,3,False,Phenomenon
+19987,314,125,5,True,Phenomenon
+19997,159,125,5,True,Phenomenon
+20007,324,125,5,True,Phenomenon
+20009,46,125,4,True,Phenomenon
+20011,345,125,3,False,Phenomenon
+20014,342,125,2,False,Phenomenon
+20018,373,125,4,True,Phenomenon
+20028,416,125,5,True,Phenomenon
+20029,417,125,5,True,Phenomenon
+20036,439,125,3,False,Phenomenon
+20048,434,125,5,True,Phenomenon
+20052,505,125,3,False,Phenomenon
+20054,525,125,3,False,Phenomenon
+20064,550,125,4,True,Phenomenon
+20069,588,125,3,False,Phenomenon
+20074,601,125,1,False,Phenomenon
+20076,618,125,3,False,Phenomenon
+20077,620,125,2,False,Phenomenon
+20085,630,125,3,False,Phenomenon
+20086,642,125,4,True,Phenomenon
+20094,674,125,5,True,Phenomenon
+20101,609,125,4,True,Phenomenon
+20102,708,125,4,True,Phenomenon
+20106,721,125,3,False,Phenomenon
+20118,764,125,4,True,Phenomenon
+20136,854,125,3,False,Phenomenon
+20147,887,125,5,True,Phenomenon
+20149,907,125,4,True,Phenomenon
+20159,921,125,3,False,Phenomenon
+20165,62,286,3,False,"English Patient, The"
+20201,229,286,4,True,"English Patient, The"
+20217,43,286,4,True,"English Patient, The"
+20241,223,286,1,False,"English Patient, The"
+20242,126,286,3,False,"English Patient, The"
+20246,270,286,5,True,"English Patient, The"
+20251,24,286,5,True,"English Patient, The"
+20253,297,286,5,True,"English Patient, The"
+20269,304,286,1,False,"English Patient, The"
+20275,240,286,5,True,"English Patient, The"
+20286,159,286,1,False,"English Patient, The"
+20292,258,286,5,True,"English Patient, The"
+20294,228,286,5,True,"English Patient, The"
+20301,241,286,5,True,"English Patient, The"
+20320,324,286,5,True,"English Patient, The"
+20324,46,286,5,True,"English Patient, The"
+20328,345,286,3,False,"English Patient, The"
+20333,342,286,4,True,"English Patient, The"
+20334,354,286,4,True,"English Patient, The"
+20344,373,286,3,False,"English Patient, The"
+20353,372,286,5,True,"English Patient, The"
+20373,416,286,5,True,"English Patient, The"
+20375,404,286,1,False,"English Patient, The"
+20377,417,286,5,True,"English Patient, The"
+20386,437,286,2,False,"English Patient, The"
+20419,490,286,2,False,"English Patient, The"
+20427,482,286,3,False,"English Patient, The"
+20461,588,286,4,True,"English Patient, The"
+20490,631,286,3,False,"English Patient, The"
+20501,657,286,4,True,"English Patient, The"
+20508,668,286,4,True,"English Patient, The"
+20510,679,286,5,True,"English Patient, The"
+20519,711,286,4,True,"English Patient, The"
+20520,705,286,3,False,"English Patient, The"
+20523,721,286,5,True,"English Patient, The"
+20524,646,286,3,False,"English Patient, The"
+20530,735,286,5,True,"English Patient, The"
+20534,740,286,5,True,"English Patient, The"
+20544,732,286,5,True,"English Patient, The"
+20551,764,286,4,True,"English Patient, The"
+20561,782,286,2,False,"English Patient, The"
+20573,787,286,3,False,"English Patient, The"
+20587,827,286,3,False,"English Patient, The"
+20596,854,286,1,False,"English Patient, The"
+20624,907,286,5,True,"English Patient, The"
+20626,875,286,3,False,"English Patient, The"
+20642,930,286,3,False,"English Patient, The"
+20646,62,423,3,False,E.T. the Extra-Terrestrial
+20652,38,423,5,True,E.T. the Extra-Terrestrial
+20692,128,423,4,True,E.T. the Extra-Terrestrial
+20696,43,423,4,True,E.T. the Extra-Terrestrial
+20710,230,423,5,True,E.T. the Extra-Terrestrial
+20715,49,423,2,False,E.T. the Extra-Terrestrial
+20716,223,423,3,False,E.T. the Extra-Terrestrial
+20718,262,423,4,True,E.T. the Extra-Terrestrial
+20723,180,423,4,True,E.T. the Extra-Terrestrial
+20725,297,423,3,False,E.T. the Extra-Terrestrial
+20726,198,423,3,False,E.T. the Extra-Terrestrial
+20730,314,423,4,True,E.T. the Extra-Terrestrial
+20750,96,423,5,True,E.T. the Extra-Terrestrial
+20762,342,423,4,True,E.T. the Extra-Terrestrial
+20763,354,423,4,True,E.T. the Extra-Terrestrial
+20768,373,423,2,False,E.T. the Extra-Terrestrial
+20781,405,423,5,True,E.T. the Extra-Terrestrial
+20784,416,423,4,True,E.T. the Extra-Terrestrial
+20785,417,423,4,True,E.T. the Extra-Terrestrial
+20788,437,423,5,True,E.T. the Extra-Terrestrial
+20815,505,423,4,True,E.T. the Extra-Terrestrial
+20826,541,423,3,False,E.T. the Extra-Terrestrial
+20840,588,423,3,False,E.T. the Extra-Terrestrial
+20846,618,423,5,True,E.T. the Extra-Terrestrial
+20848,617,423,1,False,E.T. the Extra-Terrestrial
+20849,620,423,5,True,E.T. the Extra-Terrestrial
+20859,642,423,3,False,E.T. the Extra-Terrestrial
+20862,654,423,4,True,E.T. the Extra-Terrestrial
+20872,679,423,3,False,E.T. the Extra-Terrestrial
+20875,698,423,2,False,E.T. the Extra-Terrestrial
+20880,711,423,3,False,E.T. the Extra-Terrestrial
+20881,705,423,2,False,E.T. the Extra-Terrestrial
+20882,712,423,3,False,E.T. the Extra-Terrestrial
+20883,721,423,5,True,E.T. the Extra-Terrestrial
+20885,734,423,4,True,E.T. the Extra-Terrestrial
+20907,805,423,1,False,E.T. the Extra-Terrestrial
+20915,854,423,4,True,E.T. the Extra-Terrestrial
+20931,887,423,2,False,E.T. the Extra-Terrestrial
+20935,875,423,5,True,E.T. the Extra-Terrestrial
+20946,62,328,3,False,Conspiracy Theory
+20948,38,328,4,True,Conspiracy Theory
+20971,229,328,1,False,Conspiracy Theory
+20977,128,328,2,False,Conspiracy Theory
+20983,43,328,4,True,Conspiracy Theory
+20997,165,328,3,False,Conspiracy Theory
+20999,49,328,2,False,Conspiracy Theory
+21000,223,328,3,False,Conspiracy Theory
+21001,126,328,5,True,Conspiracy Theory
+21008,253,328,4,True,Conspiracy Theory
+21009,314,328,4,True,Conspiracy Theory
+21013,304,328,3,False,Conspiracy Theory
+21019,159,328,3,False,Conspiracy Theory
+21021,12,328,4,True,Conspiracy Theory
+21023,258,328,3,False,Conspiracy Theory
+21036,324,328,4,True,Conspiracy Theory
+21039,46,328,4,True,Conspiracy Theory
+21042,300,328,3,False,Conspiracy Theory
+21051,373,328,4,True,Conspiracy Theory
+21056,376,328,3,False,Conspiracy Theory
+21067,416,328,5,True,Conspiracy Theory
+21069,404,328,4,True,Conspiracy Theory
+21074,35,328,3,False,Conspiracy Theory
+21095,462,328,5,True,Conspiracy Theory
+21099,482,328,4,True,Conspiracy Theory
+21101,505,328,4,True,Conspiracy Theory
+21107,507,328,5,True,Conspiracy Theory
+21116,550,328,5,True,Conspiracy Theory
+21121,555,328,4,True,Conspiracy Theory
+21152,668,328,4,True,Conspiracy Theory
+21160,708,328,3,False,Conspiracy Theory
+21163,721,328,5,True,Conspiracy Theory
+21166,646,328,3,False,Conspiracy Theory
+21168,740,328,3,False,Conspiracy Theory
+21184,782,328,5,True,Conspiracy Theory
+21190,759,328,5,True,Conspiracy Theory
+21193,787,328,3,False,Conspiracy Theory
+21206,854,328,1,False,Conspiracy Theory
+21217,872,328,4,True,Conspiracy Theory
+21226,904,328,2,False,Conspiracy Theory
+21234,917,328,2,False,Conspiracy Theory
+21237,921,328,5,True,Conspiracy Theory
+21241,62,216,4,True,When Harry Met Sally...
+21245,38,216,5,True,When Harry Met Sally...
+21279,128,216,5,True,When Harry Met Sally...
+21285,43,216,5,True,When Harry Met Sally...
+21292,214,216,4,True,When Harry Met Sally...
+21299,230,216,4,True,When Harry Met Sally...
+21304,165,216,4,True,When Harry Met Sally...
+21306,223,216,5,True,When Harry Met Sally...
+21308,262,216,3,False,When Harry Met Sally...
+21314,24,216,4,True,When Harry Met Sally...
+21315,180,216,5,True,When Harry Met Sally...
+21317,297,216,4,True,When Harry Met Sally...
+21318,198,216,4,True,When Harry Met Sally...
+21322,253,216,4,True,When Harry Met Sally...
+21325,314,216,3,False,When Harry Met Sally...
+21336,12,216,5,True,When Harry Met Sally...
+21341,96,216,4,True,When Harry Met Sally...
+21355,345,216,5,True,When Harry Met Sally...
+21358,342,216,5,True,When Harry Met Sally...
+21359,354,216,3,False,When Harry Met Sally...
+21363,373,216,4,True,When Harry Met Sally...
+21374,405,216,2,False,When Harry Met Sally...
+21380,416,216,5,True,When Harry Met Sally...
+21381,417,216,3,False,When Harry Met Sally...
+21384,437,216,5,True,When Harry Met Sally...
+21423,588,216,5,True,When Harry Met Sally...
+21429,618,216,3,False,When Harry Met Sally...
+21437,630,216,5,True,When Harry Met Sally...
+21438,642,216,3,False,When Harry Met Sally...
+21441,654,216,4,True,When Harry Met Sally...
+21461,711,216,4,True,When Harry Met Sally...
+21462,721,216,5,True,When Harry Met Sally...
+21471,751,216,4,True,When Harry Met Sally...
+21474,764,216,4,True,When Harry Met Sally...
+21487,805,216,2,False,When Harry Met Sally...
+21496,854,216,3,False,When Harry Met Sally...
+21516,904,216,4,True,When Harry Met Sally...
+21522,922,216,3,False,When Harry Met Sally...
+21531,62,168,5,True,Monty Python and the Holy Grail
+21575,128,168,4,True,Monty Python and the Holy Grail
+21578,43,168,4,True,Monty Python and the Holy Grail
+21587,214,168,3,False,Monty Python and the Holy Grail
+21592,230,168,4,True,Monty Python and the Holy Grail
+21597,49,168,5,True,Monty Python and the Holy Grail
+21607,297,168,5,True,Monty Python and the Holy Grail
+21608,198,168,4,True,Monty Python and the Holy Grail
+21613,253,168,3,False,Monty Python and the Holy Grail
+21625,12,168,4,True,Monty Python and the Holy Grail
+21641,354,168,5,True,Monty Python and the Holy Grail
+21646,373,168,5,True,Monty Python and the Holy Grail
+21662,405,168,1,False,Monty Python and the Holy Grail
+21669,416,168,5,True,Monty Python and the Holy Grail
+21671,417,168,4,True,Monty Python and the Holy Grail
+21676,437,168,3,False,Monty Python and the Holy Grail
+21695,496,168,3,False,Monty Python and the Holy Grail
+21715,541,168,4,True,Monty Python and the Holy Grail
+21726,555,168,4,True,Monty Python and the Holy Grail
+21729,588,168,5,True,Monty Python and the Holy Grail
+21731,601,168,5,True,Monty Python and the Holy Grail
+21733,618,168,5,True,Monty Python and the Holy Grail
+21741,642,168,5,True,Monty Python and the Holy Grail
+21747,654,168,4,True,Monty Python and the Holy Grail
+21761,679,168,5,True,Monty Python and the Holy Grail
+21765,698,168,3,False,Monty Python and the Holy Grail
+21770,711,168,4,True,Monty Python and the Holy Grail
+21772,712,168,2,False,Monty Python and the Holy Grail
+21783,751,168,5,True,Monty Python and the Holy Grail
+21802,805,168,5,True,Monty Python and the Holy Grail
+21810,854,168,4,True,Monty Python and the Holy Grail
+21829,887,168,4,True,Monty Python and the Holy Grail
+21836,922,168,3,False,Monty Python and the Holy Grail
+21847,62,70,3,False,Four Weddings and a Funeral
+21852,38,70,5,True,Four Weddings and a Funeral
+21887,128,70,3,False,Four Weddings and a Funeral
+21892,43,70,4,True,Four Weddings and a Funeral
+21904,230,70,4,True,Four Weddings and a Funeral
+21908,49,70,2,False,Four Weddings and a Funeral
+21909,262,70,4,True,Four Weddings and a Funeral
+21913,270,70,5,True,Four Weddings and a Funeral
+21916,297,70,5,True,Four Weddings and a Funeral
+21917,198,70,3,False,Four Weddings and a Funeral
+21921,314,70,1,False,Four Weddings and a Funeral
+21945,345,70,5,True,Four Weddings and a Funeral
+21948,354,70,3,False,Four Weddings and a Funeral
+21951,373,70,4,True,Four Weddings and a Funeral
+21957,405,70,3,False,Four Weddings and a Funeral
+21961,416,70,5,True,Four Weddings and a Funeral
+21963,417,70,4,True,Four Weddings and a Funeral
+21966,437,70,3,False,Four Weddings and a Funeral
+22013,618,70,3,False,Four Weddings and a Funeral
+22023,630,70,2,False,Four Weddings and a Funeral
+22024,642,70,2,False,Four Weddings and a Funeral
+22030,654,70,4,True,Four Weddings and a Funeral
+22042,679,70,4,True,Four Weddings and a Funeral
+22048,711,70,5,True,Four Weddings and a Funeral
+22049,721,70,3,False,Four Weddings and a Funeral
+22053,751,70,4,True,Four Weddings and a Funeral
+22056,764,70,4,True,Four Weddings and a Funeral
+22098,62,655,3,False,Stand by Me
+22135,128,655,3,False,Stand by Me
+22152,262,655,4,True,Stand by Me
+22157,24,655,5,True,Stand by Me
+22158,180,655,5,True,Stand by Me
+22160,198,655,4,True,Stand by Me
+22163,253,655,4,True,Stand by Me
+22164,314,655,4,True,Stand by Me
+22173,228,655,4,True,Stand by Me
+22189,345,655,4,True,Stand by Me
+22191,342,655,4,True,Stand by Me
+22192,354,655,3,False,Stand by Me
+22195,373,655,5,True,Stand by Me
+22203,405,655,5,True,Stand by Me
+22208,416,655,5,True,Stand by Me
+22210,417,655,4,True,Stand by Me
+22214,437,655,4,True,Stand by Me
+22231,462,655,5,True,Stand by Me
+22241,541,655,4,True,Stand by Me
+22249,588,655,3,False,Stand by Me
+22254,618,655,4,True,Stand by Me
+22274,711,655,4,True,Stand by Me
+22275,705,655,3,False,Stand by Me
+22276,712,655,5,True,Stand by Me
+22277,721,655,2,False,Stand by Me
+22285,751,655,3,False,Stand by Me
+22295,805,655,3,False,Stand by Me
+22315,887,655,1,False,Stand by Me
+22321,922,655,2,False,Stand by Me
+22325,62,1,2,False,Toy Story
+22331,38,1,5,True,Toy Story
+22381,128,1,4,True,Toy Story
+22387,43,1,5,True,Toy Story
+22394,203,1,3,False,Toy Story
+22408,230,1,5,True,Toy Story
+22416,49,1,2,False,Toy Story
+22417,223,1,4,True,Toy Story
+22418,274,1,4,True,Toy Story
+22420,262,1,3,False,Toy Story
+22429,150,1,4,True,Toy Story
+22432,297,1,3,False,Toy Story
+22433,198,1,4,True,Toy Story
+22439,253,1,5,True,Toy Story
+22444,314,1,5,True,Toy Story
+22469,96,1,5,True,Toy Story
+22480,324,1,5,True,Toy Story
+22488,345,1,3,False,Toy Story
+22491,348,1,4,True,Toy Story
+22518,416,1,5,True,Toy Story
+22521,417,1,4,True,Toy Story
+22557,490,1,3,False,Toy Story
+22558,434,1,4,True,Toy Story
+22568,505,1,3,False,Toy Story
+22570,525,1,4,True,Toy Story
+22583,541,1,4,True,Toy Story
+22588,550,1,3,False,Toy Story
+22600,588,1,4,True,Toy Story
+22608,618,1,4,True,Toy Story
+22610,599,1,4,True,Toy Story
+22611,620,1,5,True,Toy Story
+22620,630,1,4,True,Toy Story
+22621,642,1,5,True,Toy Story
+22627,654,1,4,True,Toy Story
+22637,657,1,3,False,Toy Story
+22640,674,1,4,True,Toy Story
+22646,679,1,3,False,Toy Story
+22652,698,1,4,True,Toy Story
+22654,609,1,1,False,Toy Story
+22655,708,1,5,True,Toy Story
+22661,705,1,5,True,Toy Story
+22663,721,1,5,True,Toy Story
+22668,735,1,4,True,Toy Story
+22679,751,1,3,False,Toy Story
+22690,764,1,4,True,Toy Story
+22706,759,1,5,True,Toy Story
+22714,805,1,4,True,Toy Story
+22716,726,1,4,True,Toy Story
+22727,854,1,3,False,Toy Story
+22732,822,1,4,True,Toy Story
+22736,872,1,3,False,Toy Story
+22750,887,1,5,True,Toy Story
+22755,907,1,5,True,Toy Story
+22760,922,1,5,True,Toy Story
+22766,917,1,3,False,Toy Story
+22768,921,1,3,False,Toy Story
+22773,930,1,3,False,Toy Story
+22777,62,238,5,True,Raising Arizona
+22812,128,238,4,True,Raising Arizona
+22817,43,238,2,False,Raising Arizona
+22825,214,238,4,True,Raising Arizona
+22829,230,238,1,False,Raising Arizona
+22833,49,238,4,True,Raising Arizona
+22835,262,238,4,True,Raising Arizona
+22841,24,238,5,True,Raising Arizona
+22844,297,238,5,True,Raising Arizona
+22845,198,238,4,True,Raising Arizona
+22862,12,238,5,True,Raising Arizona
+22867,96,238,4,True,Raising Arizona
+22877,345,238,5,True,Raising Arizona
+22878,342,238,4,True,Raising Arizona
+22879,354,238,4,True,Raising Arizona
+22883,373,238,4,True,Raising Arizona
+22893,405,238,5,True,Raising Arizona
+22899,416,238,4,True,Raising Arizona
+22901,417,238,4,True,Raising Arizona
+22904,437,238,5,True,Raising Arizona
+22946,601,238,2,False,Raising Arizona
+22949,618,238,1,False,Raising Arizona
+22950,617,238,3,False,Raising Arizona
+22958,654,238,4,True,Raising Arizona
+22976,711,238,4,True,Raising Arizona
+22977,712,238,3,False,Raising Arizona
+22982,751,238,3,False,Raising Arizona
+22998,805,238,5,True,Raising Arizona
+23007,854,238,5,True,Raising Arizona
+23032,930,238,4,True,Raising Arizona
+23033,62,222,5,True,Star Trek: First Contact
+23047,32,222,3,False,Star Trek: First Contact
+23079,128,222,3,False,Star Trek: First Contact
+23081,43,222,4,True,Star Trek: First Contact
+23089,203,222,4,True,Star Trek: First Contact
+23107,165,222,5,True,Star Trek: First Contact
+23117,270,222,5,True,Star Trek: First Contact
+23122,180,222,5,True,Star Trek: First Contact
+23125,297,222,4,True,Star Trek: First Contact
+23126,198,222,3,False,Star Trek: First Contact
+23129,253,222,4,True,Star Trek: First Contact
+23171,354,222,3,False,Star Trek: First Contact
+23194,417,222,3,False,Star Trek: First Contact
+23221,490,222,3,False,Star Trek: First Contact
+23227,496,222,3,False,Star Trek: First Contact
+23239,507,222,5,True,Star Trek: First Contact
+23243,541,222,4,True,Star Trek: First Contact
+23248,550,222,4,True,Star Trek: First Contact
+23256,588,222,3,False,Star Trek: First Contact
+23264,601,222,4,True,Star Trek: First Contact
+23274,630,222,4,True,Star Trek: First Contact
+23279,654,222,5,True,Star Trek: First Contact
+23288,674,222,3,False,Star Trek: First Contact
+23292,679,222,4,True,Star Trek: First Contact
+23299,698,222,4,True,Star Trek: First Contact
+23302,708,222,5,True,Star Trek: First Contact
+23305,711,222,3,False,Star Trek: First Contact
+23308,705,222,5,True,Star Trek: First Contact
+23310,721,222,5,True,Star Trek: First Contact
+23315,734,222,1,False,Star Trek: First Contact
+23334,764,222,4,True,Star Trek: First Contact
+23347,759,222,5,True,Star Trek: First Contact
+23354,805,222,4,True,Star Trek: First Contact
+23363,854,222,4,True,Star Trek: First Contact
+23380,887,222,3,False,Star Trek: First Contact
+23387,922,222,4,True,Star Trek: First Contact
+23392,921,222,5,True,Star Trek: First Contact
+23396,939,222,5,True,Star Trek: First Contact
+23398,62,195,5,True,"Terminator, The"
+23403,38,195,1,False,"Terminator, The"
+23451,214,195,4,True,"Terminator, The"
+23458,230,195,3,False,"Terminator, The"
+23466,262,195,2,False,"Terminator, The"
+23475,297,195,1,False,"Terminator, The"
+23476,198,195,3,False,"Terminator, The"
+23480,175,195,3,False,"Terminator, The"
+23492,159,195,3,False,"Terminator, The"
+23493,12,195,4,True,"Terminator, The"
+23498,96,195,5,True,"Terminator, The"
+23514,373,195,4,True,"Terminator, The"
+23525,405,195,5,True,"Terminator, The"
+23531,416,195,5,True,"Terminator, The"
+23534,417,195,5,True,"Terminator, The"
+23537,437,195,2,False,"Terminator, The"
+23559,496,195,4,True,"Terminator, The"
+23563,505,195,3,False,"Terminator, The"
+23580,555,195,4,True,"Terminator, The"
+23584,601,195,3,False,"Terminator, The"
+23587,618,195,3,False,"Terminator, The"
+23597,630,195,4,True,"Terminator, The"
+23598,642,195,3,False,"Terminator, The"
+23604,654,195,4,True,"Terminator, The"
+23619,698,195,4,True,"Terminator, The"
+23626,705,195,2,False,"Terminator, The"
+23627,712,195,3,False,"Terminator, The"
+23654,805,195,3,False,"Terminator, The"
+23665,854,195,3,False,"Terminator, The"
+23684,887,195,4,True,"Terminator, The"
+23687,875,195,4,True,"Terminator, The"
+23690,922,195,3,False,"Terminator, The"
+23699,62,403,4,True,Batman
+23703,38,403,1,False,Batman
+23730,43,403,4,True,Batman
+23742,49,403,3,False,Batman
+23750,180,403,3,False,Batman
+23752,198,403,4,True,Batman
+23778,345,403,3,False,Batman
+23782,373,403,3,False,Batman
+23792,405,403,5,True,Batman
+23795,416,403,5,True,Batman
+23796,417,403,4,True,Batman
+23822,541,403,3,False,Batman
+23827,588,403,3,False,Batman
+23830,618,403,4,True,Batman
+23835,642,403,4,True,Batman
+23847,668,403,4,True,Batman
+23850,711,403,4,True,Batman
+23851,705,403,4,True,Batman
+23852,721,403,4,True,Batman
+23875,805,403,4,True,Batman
+23895,922,403,3,False,Batman
+23900,62,97,2,False,Dances with Wolves
+23905,38,97,5,True,Dances with Wolves
+23939,128,97,3,False,Dances with Wolves
+23941,43,97,5,True,Dances with Wolves
+23953,230,97,5,True,Dances with Wolves
+23962,270,97,4,True,Dances with Wolves
+23966,24,97,4,True,Dances with Wolves
+23969,297,97,5,True,Dances with Wolves
+23970,198,97,3,False,Dances with Wolves
+23973,253,97,4,True,Dances with Wolves
+23980,12,97,5,True,Dances with Wolves
+23993,354,97,3,False,Dances with Wolves
+23998,373,97,3,False,Dances with Wolves
+24009,405,97,2,False,Dances with Wolves
+24016,416,97,5,True,Dances with Wolves
+24017,417,97,4,True,Dances with Wolves
+24020,437,97,3,False,Dances with Wolves
+24038,496,97,1,False,Dances with Wolves
+24045,505,97,4,True,Dances with Wolves
+24064,588,97,2,False,Dances with Wolves
+24068,618,97,5,True,Dances with Wolves
+24077,642,97,4,True,Dances with Wolves
+24078,654,97,3,False,Dances with Wolves
+24088,668,97,2,False,Dances with Wolves
+24089,679,97,3,False,Dances with Wolves
+24099,711,97,4,True,Dances with Wolves
+24100,705,97,3,False,Dances with Wolves
+24101,712,97,5,True,Dances with Wolves
+24102,721,97,4,True,Dances with Wolves
+24103,734,97,4,True,Dances with Wolves
+24147,904,97,4,True,Dances with Wolves
+24148,907,97,5,True,Dances with Wolves
+24151,921,97,2,False,Dances with Wolves
+24156,62,196,4,True,Dead Poets Society
+24195,128,196,5,True,Dead Poets Society
+24200,43,196,4,True,Dead Poets Society
+24208,214,196,4,True,Dead Poets Society
+24214,230,196,5,True,Dead Poets Society
+24223,180,196,5,True,Dead Poets Society
+24224,297,196,4,True,Dead Poets Society
+24225,198,196,3,False,Dead Poets Society
+24229,314,196,3,False,Dead Poets Society
+24236,12,196,5,True,Dead Poets Society
+24241,96,196,4,True,Dead Poets Society
+24250,345,196,5,True,Dead Poets Society
+24252,342,196,3,False,Dead Poets Society
+24253,354,196,3,False,Dead Poets Society
+24256,373,196,5,True,Dead Poets Society
+24269,405,196,1,False,Dead Poets Society
+24273,416,196,5,True,Dead Poets Society
+24275,417,196,5,True,Dead Poets Society
+24278,437,196,4,True,Dead Poets Society
+24294,496,196,3,False,Dead Poets Society
+24305,541,196,4,True,Dead Poets Society
+24316,601,196,3,False,Dead Poets Society
+24318,618,196,4,True,Dead Poets Society
+24327,654,196,5,True,Dead Poets Society
+24338,679,196,4,True,Dead Poets Society
+24345,711,196,5,True,Dead Poets Society
+24346,705,196,4,True,Dead Poets Society
+24347,712,196,4,True,Dead Poets Society
+24348,721,196,5,True,Dead Poets Society
+24358,751,196,4,True,Dead Poets Society
+24376,805,196,2,False,Dead Poets Society
+24402,921,196,5,True,Dead Poets Society
+24407,62,483,4,True,Casablanca
+24440,128,483,5,True,Casablanca
+24453,214,483,4,True,Casablanca
+24469,253,483,5,True,Casablanca
+24470,175,483,5,True,Casablanca
+24483,96,483,5,True,Casablanca
+24498,342,483,4,True,Casablanca
+24499,354,483,4,True,Casablanca
+24519,417,483,5,True,Casablanca
+24522,437,483,5,True,Casablanca
+24537,496,483,4,True,Casablanca
+24559,588,483,4,True,Casablanca
+24564,601,483,4,True,Casablanca
+24566,618,483,5,True,Casablanca
+24586,679,483,5,True,Casablanca
+24590,698,483,3,False,Casablanca
+24594,711,483,5,True,Casablanca
+24597,734,483,4,True,Casablanca
+24603,751,483,5,True,Casablanca
+24623,854,483,4,True,Casablanca
+24638,907,483,4,True,Casablanca
+24650,62,597,2,False,Eraser
+24687,43,597,3,False,Eraser
+24701,223,597,4,True,Eraser
+24702,274,597,3,False,Eraser
+24711,314,597,4,True,Eraser
+24719,159,597,5,True,Eraser
+24726,324,597,4,True,Eraser
+24741,416,597,3,False,Eraser
+24742,417,597,3,False,Eraser
+24762,525,597,3,False,Eraser
+24765,507,597,5,True,Eraser
+24775,588,597,4,True,Eraser
+24780,618,597,4,True,Eraser
+24789,630,597,4,True,Eraser
+24790,642,597,4,True,Eraser
+24792,654,597,4,True,Eraser
+24797,674,597,3,False,Eraser
+24803,708,597,2,False,Eraser
+24805,705,597,4,True,Eraser
+24812,751,597,2,False,Eraser
+24816,764,597,4,True,Eraser
+24827,805,597,3,False,Eraser
+24832,854,597,2,False,Eraser
+24839,872,597,4,True,Eraser
+24847,887,597,5,True,Eraser
+24855,939,597,4,True,Eraser
+24856,62,144,3,False,Die Hard
+24861,38,144,5,True,Die Hard
+24895,43,144,4,True,Die Hard
+24908,230,144,3,False,Die Hard
+24920,297,144,3,False,Die Hard
+24924,314,144,3,False,Die Hard
+24936,96,144,4,True,Die Hard
+24946,342,144,5,True,Die Hard
+24950,373,144,3,False,Die Hard
+24964,416,144,5,True,Die Hard
+24965,417,144,3,False,Die Hard
+24969,437,144,2,False,Die Hard
+24995,505,144,3,False,Die Hard
+25008,588,144,3,False,Die Hard
+25014,618,144,4,True,Die Hard
+25025,654,144,5,True,Die Hard
+25038,698,144,2,False,Die Hard
+25044,711,144,2,False,Die Hard
+25046,705,144,3,False,Die Hard
+25048,734,144,2,False,Die Hard
+25053,751,144,4,True,Die Hard
+25067,805,144,3,False,Die Hard
+25075,854,144,3,False,Die Hard
+25088,907,144,5,True,Die Hard
+25099,62,245,2,False,"Devil's Own, The"
+25105,32,245,2,False,"Devil's Own, The"
+25120,229,245,3,False,"Devil's Own, The"
+25125,128,245,2,False,"Devil's Own, The"
+25142,126,245,3,False,"Devil's Own, The"
+25148,297,245,3,False,"Devil's Own, The"
+25150,206,245,1,False,"Devil's Own, The"
+25155,240,245,4,True,"Devil's Own, The"
+25160,159,245,5,True,"Devil's Own, The"
+25178,46,245,3,False,"Devil's Own, The"
+25180,345,245,2,False,"Devil's Own, The"
+25184,348,245,4,True,"Devil's Own, The"
+25199,416,245,2,False,"Devil's Own, The"
+25200,404,245,3,False,"Devil's Own, The"
+25202,417,245,4,True,"Devil's Own, The"
+25229,482,245,4,True,"Devil's Own, The"
+25232,505,245,4,True,"Devil's Own, The"
+25238,507,245,5,True,"Devil's Own, The"
+25255,599,245,3,False,"Devil's Own, The"
+25262,642,245,4,True,"Devil's Own, The"
+25270,674,245,4,True,"Devil's Own, The"
+25279,721,245,3,False,"Devil's Own, The"
+25281,735,245,3,False,"Devil's Own, The"
+25286,732,245,4,True,"Devil's Own, The"
+25291,764,245,4,True,"Devil's Own, The"
+25294,782,245,4,True,"Devil's Own, The"
+25299,759,245,3,False,"Devil's Own, The"
+25302,787,245,3,False,"Devil's Own, The"
+25311,827,245,3,False,"Devil's Own, The"
+25326,907,245,4,True,"Devil's Own, The"
+25332,921,245,1,False,"Devil's Own, The"
+25336,930,245,3,False,"Devil's Own, The"
+25337,925,245,3,False,"Devil's Own, The"
+25339,62,210,4,True,Indiana Jones and the Last Crusade
+25384,128,210,4,True,Indiana Jones and the Last Crusade
+25388,43,210,5,True,Indiana Jones and the Last Crusade
+25406,230,210,5,True,Indiana Jones and the Last Crusade
+25416,262,210,3,False,Indiana Jones and the Last Crusade
+25426,297,210,4,True,Indiana Jones and the Last Crusade
+25427,198,210,4,True,Indiana Jones and the Last Crusade
+25430,253,210,4,True,Indiana Jones and the Last Crusade
+25461,345,210,4,True,Indiana Jones and the Last Crusade
+25464,354,210,3,False,Indiana Jones and the Last Crusade
+25470,373,210,5,True,Indiana Jones and the Last Crusade
+25484,405,210,5,True,Indiana Jones and the Last Crusade
+25490,416,210,5,True,Indiana Jones and the Last Crusade
+25492,417,210,3,False,Indiana Jones and the Last Crusade
+25495,437,210,3,False,Indiana Jones and the Last Crusade
+25523,505,210,4,True,Indiana Jones and the Last Crusade
+25537,541,210,5,True,Indiana Jones and the Last Crusade
+25547,588,210,4,True,Indiana Jones and the Last Crusade
+25553,601,210,4,True,Indiana Jones and the Last Crusade
+25556,618,210,3,False,Indiana Jones and the Last Crusade
+25565,642,210,5,True,Indiana Jones and the Last Crusade
+25571,654,210,5,True,Indiana Jones and the Last Crusade
+25584,668,210,5,True,Indiana Jones and the Last Crusade
+25590,698,210,5,True,Indiana Jones and the Last Crusade
+25594,705,210,5,True,Indiana Jones and the Last Crusade
+25595,712,210,5,True,Indiana Jones and the Last Crusade
+25598,734,210,3,False,Indiana Jones and the Last Crusade
+25606,751,210,5,True,Indiana Jones and the Last Crusade
+25624,805,210,3,False,Indiana Jones and the Last Crusade
+25654,887,210,5,True,Indiana Jones and the Last Crusade
+25660,922,210,3,False,Indiana Jones and the Last Crusade
+25664,921,210,4,True,Indiana Jones and the Last Crusade
+25669,930,210,2,False,Indiana Jones and the Last Crusade
+25670,62,271,1,False,Starship Troopers
+25675,32,271,3,False,Starship Troopers
+25693,43,271,3,False,Starship Troopers
+25697,203,271,3,False,Starship Troopers
+25704,297,271,2,False,Starship Troopers
+25711,304,271,4,True,Starship Troopers
+25754,281,271,5,True,Starship Troopers
+25772,462,271,1,False,Starship Troopers
+25776,505,271,4,True,Starship Troopers
+25783,507,271,5,True,Starship Troopers
+25788,550,271,5,True,Starship Troopers
+25792,555,271,3,False,Starship Troopers
+25814,668,271,4,True,Starship Troopers
+25820,708,271,1,False,Starship Troopers
+25825,740,271,2,False,Starship Troopers
+25837,782,271,2,False,Starship Troopers
+25841,787,271,1,False,Starship Troopers
+25844,805,271,3,False,Starship Troopers
+25853,813,271,4,True,Starship Troopers
+25856,854,271,4,True,Starship Troopers
+25874,907,271,5,True,Starship Troopers
+25877,922,271,3,False,Starship Troopers
+25881,62,204,3,False,Back to the Future
+25931,128,204,4,True,Back to the Future
+25935,43,204,4,True,Back to the Future
+25951,230,204,4,True,Back to the Future
+25957,49,204,1,False,Back to the Future
+25959,262,204,3,False,Back to the Future
+25966,180,204,3,False,Back to the Future
+25969,297,204,3,False,Back to the Future
+25970,198,204,3,False,Back to the Future
+25974,314,204,5,True,Back to the Future
+25987,12,204,5,True,Back to the Future
+25989,52,204,4,True,Back to the Future
+25990,228,204,3,False,Back to the Future
+26010,345,204,4,True,Back to the Future
+26013,342,204,4,True,Back to the Future
+26019,373,204,5,True,Back to the Future
+26032,405,204,5,True,Back to the Future
+26039,416,204,5,True,Back to the Future
+26044,437,204,5,True,Back to the Future
+26072,496,204,3,False,Back to the Future
+26078,505,204,3,False,Back to the Future
+26092,541,204,4,True,Back to the Future
+26106,588,204,5,True,Back to the Future
+26110,601,204,2,False,Back to the Future
+26113,618,204,3,False,Back to the Future
+26122,642,204,4,True,Back to the Future
+26127,654,204,4,True,Back to the Future
+26139,679,204,3,False,Back to the Future
+26143,698,204,2,False,Back to the Future
+26147,711,204,3,False,Back to the Future
+26148,712,204,4,True,Back to the Future
+26149,721,204,5,True,Back to the Future
+26151,734,204,4,True,Back to the Future
+26161,751,204,4,True,Back to the Future
+26180,805,204,2,False,Back to the Future
+26211,887,204,5,True,Back to the Future
+26221,922,204,3,False,Back to the Future
+26231,62,275,4,True,Sense and Sensibility
+26264,128,275,5,True,Sense and Sensibility
+26267,43,275,4,True,Sense and Sensibility
+26270,214,275,3,False,Sense and Sensibility
+26278,274,275,5,True,Sense and Sensibility
+26279,262,275,4,True,Sense and Sensibility
+26282,270,275,5,True,Sense and Sensibility
+26286,24,275,5,True,Sense and Sensibility
+26288,297,275,5,True,Sense and Sensibility
+26297,304,275,4,True,Sense and Sensibility
+26306,52,275,4,True,Sense and Sensibility
+26307,228,275,3,False,Sense and Sensibility
+26318,324,275,4,True,Sense and Sensibility
+26324,354,275,4,True,Sense and Sensibility
+26329,373,275,5,True,Sense and Sensibility
+26333,376,275,5,True,Sense and Sensibility
+26341,416,275,5,True,Sense and Sensibility
+26346,437,275,5,True,Sense and Sensibility
+26368,434,275,3,False,Sense and Sensibility
+26375,477,275,5,True,Sense and Sensibility
+26386,550,275,4,True,Sense and Sensibility
+26393,588,275,3,False,Sense and Sensibility
+26399,618,275,3,False,Sense and Sensibility
+26416,654,275,5,True,Sense and Sensibility
+26425,698,275,4,True,Sense and Sensibility
+26430,711,275,5,True,Sense and Sensibility
+26432,705,275,5,True,Sense and Sensibility
+26434,734,275,4,True,Sense and Sensibility
+26436,735,275,4,True,Sense and Sensibility
+26446,764,275,4,True,Sense and Sensibility
+26456,759,275,4,True,Sense and Sensibility
+26466,854,275,4,True,Sense and Sensibility
+26467,859,275,3,False,Sense and Sensibility
+26481,904,275,5,True,Sense and Sensibility
+26484,907,275,5,True,Sense and Sensibility
+26491,921,275,1,False,Sense and Sensibility
+26495,930,275,4,True,Sense and Sensibility
+26497,939,275,4,True,Sense and Sensibility
+26499,62,276,5,True,Leaving Las Vegas
+26510,32,276,4,True,Leaving Las Vegas
+26539,128,276,4,True,Leaving Las Vegas
+26546,43,276,4,True,Leaving Las Vegas
+26551,203,276,4,True,Leaving Las Vegas
+26552,214,276,3,False,Leaving Las Vegas
+26561,230,276,5,True,Leaving Las Vegas
+26567,223,276,4,True,Leaving Las Vegas
+26568,274,276,4,True,Leaving Las Vegas
+26573,150,276,5,True,Leaving Las Vegas
+26575,24,276,5,True,Leaving Las Vegas
+26576,198,276,3,False,Leaving Las Vegas
+26582,314,276,1,False,Leaving Las Vegas
+26598,159,276,5,True,Leaving Las Vegas
+26600,12,276,4,True,Leaving Las Vegas
+26613,324,276,5,True,Leaving Las Vegas
+26620,342,276,3,False,Leaving Las Vegas
+26621,348,276,3,False,Leaving Las Vegas
+26622,354,276,3,False,Leaving Las Vegas
+26646,416,276,3,False,Leaving Las Vegas
+26657,437,276,5,True,Leaving Las Vegas
+26661,439,276,5,True,Leaving Las Vegas
+26681,525,276,5,True,Leaving Las Vegas
+26703,601,276,4,True,Leaving Las Vegas
+26705,618,276,3,False,Leaving Las Vegas
+26707,599,276,2,False,Leaving Las Vegas
+26719,630,276,1,False,Leaving Las Vegas
+26723,654,276,1,False,Leaving Las Vegas
+26735,708,276,2,False,Leaving Las Vegas
+26742,735,276,4,True,Leaving Las Vegas
+26751,764,276,3,False,Leaving Las Vegas
+26765,859,276,4,True,Leaving Las Vegas
+26786,922,276,3,False,Leaving Las Vegas
+26792,917,276,5,True,Leaving Las Vegas
+26793,921,276,1,False,Leaving Las Vegas
+26797,62,191,5,True,Amadeus
+26838,128,191,4,True,Amadeus
+26843,43,191,5,True,Amadeus
+26850,214,191,4,True,Amadeus
+26860,262,191,4,True,Amadeus
+26865,24,191,5,True,Amadeus
+26867,180,191,4,True,Amadeus
+26870,297,191,3,False,Amadeus
+26871,198,191,4,True,Amadeus
+26888,12,191,5,True,Amadeus
+26889,52,191,5,True,Amadeus
+26901,345,191,5,True,Amadeus
+26903,342,191,5,True,Amadeus
+26904,354,191,4,True,Amadeus
+26906,373,191,4,True,Amadeus
+26916,405,191,4,True,Amadeus
+26922,416,191,5,True,Amadeus
+26923,417,191,5,True,Amadeus
+26927,437,191,4,True,Amadeus
+26948,496,191,5,True,Amadeus
+26953,505,191,3,False,Amadeus
+26979,601,191,4,True,Amadeus
+26981,618,191,4,True,Amadeus
+26989,630,191,3,False,Amadeus
+26990,642,191,4,True,Amadeus
+27007,698,191,2,False,Amadeus
+27012,711,191,5,True,Amadeus
+27014,705,191,1,False,Amadeus
+27015,712,191,3,False,Amadeus
+27016,721,191,3,False,Amadeus
+27019,734,191,4,True,Amadeus
+27025,764,191,3,False,Amadeus
+27037,805,191,4,True,Amadeus
+27047,854,191,4,True,Amadeus
+27065,922,191,3,False,Amadeus
+27073,62,15,2,False,Mr. Holland's Opus
+27115,128,15,4,True,Mr. Holland's Opus
+27119,43,15,5,True,Mr. Holland's Opus
+27139,165,15,5,True,Mr. Holland's Opus
+27141,274,15,5,True,Mr. Holland's Opus
+27142,262,15,3,False,Mr. Holland's Opus
+27149,198,15,3,False,Mr. Holland's Opus
+27154,253,15,4,True,Mr. Holland's Opus
+27156,314,15,5,True,Mr. Holland's Opus
+27167,159,15,5,True,Mr. Holland's Opus
+27169,12,15,5,True,Mr. Holland's Opus
+27171,52,15,5,True,Mr. Holland's Opus
+27180,345,15,4,True,Mr. Holland's Opus
+27182,342,15,3,False,Mr. Holland's Opus
+27183,348,15,4,True,Mr. Holland's Opus
+27186,373,15,4,True,Mr. Holland's Opus
+27201,416,15,4,True,Mr. Holland's Opus
+27202,417,15,5,True,Mr. Holland's Opus
+27209,437,15,4,True,Mr. Holland's Opus
+27228,490,15,1,False,Mr. Holland's Opus
+27229,434,15,3,False,Mr. Holland's Opus
+27234,477,15,4,True,Mr. Holland's Opus
+27235,525,15,4,True,Mr. Holland's Opus
+27240,541,15,3,False,Mr. Holland's Opus
+27246,550,15,5,True,Mr. Holland's Opus
+27253,588,15,5,True,Mr. Holland's Opus
+27261,601,15,1,False,Mr. Holland's Opus
+27263,618,15,3,False,Mr. Holland's Opus
+27264,620,15,5,True,Mr. Holland's Opus
+27272,630,15,3,False,Mr. Holland's Opus
+27273,642,15,5,True,Mr. Holland's Opus
+27281,654,15,3,False,Mr. Holland's Opus
+27287,674,15,4,True,Mr. Holland's Opus
+27295,609,15,5,True,Mr. Holland's Opus
+27296,708,15,3,False,Mr. Holland's Opus
+27301,705,15,3,False,Mr. Holland's Opus
+27303,721,15,4,True,Mr. Holland's Opus
+27306,734,15,4,True,Mr. Holland's Opus
+27320,764,15,4,True,Mr. Holland's Opus
+27337,854,15,3,False,Mr. Holland's Opus
+27339,849,15,5,True,Mr. Holland's Opus
+27340,859,15,4,True,Mr. Holland's Opus
+27353,907,15,5,True,Mr. Holland's Opus
+27358,922,15,4,True,Mr. Holland's Opus
+27361,921,15,4,True,Mr. Holland's Opus
+27364,939,15,5,True,Mr. Holland's Opus
+27366,62,215,3,False,Field of Dreams
+27403,128,215,3,False,Field of Dreams
+27406,43,215,5,True,Field of Dreams
+27425,297,215,2,False,Field of Dreams
+27426,198,215,4,True,Field of Dreams
+27428,175,215,5,True,Field of Dreams
+27429,314,215,4,True,Field of Dreams
+27437,12,215,4,True,Field of Dreams
+27451,345,215,4,True,Field of Dreams
+27456,373,215,4,True,Field of Dreams
+27464,405,215,5,True,Field of Dreams
+27468,416,215,5,True,Field of Dreams
+27470,437,215,3,False,Field of Dreams
+27496,541,215,4,True,Field of Dreams
+27505,588,215,5,True,Field of Dreams
+27510,618,215,4,True,Field of Dreams
+27518,654,215,4,True,Field of Dreams
+27529,679,215,3,False,Field of Dreams
+27535,711,215,3,False,Field of Dreams
+27536,705,215,2,False,Field of Dreams
+27537,712,215,3,False,Field of Dreams
+27538,721,215,4,True,Field of Dreams
+27545,751,215,4,True,Field of Dreams
+27572,922,215,3,False,Field of Dreams
+27573,921,215,4,True,Field of Dreams
+27578,62,151,5,True,Willy Wonka and the Chocolate Factory
+27596,32,151,3,False,Willy Wonka and the Chocolate Factory
+27620,128,151,3,False,Willy Wonka and the Chocolate Factory
+27622,43,151,4,True,Willy Wonka and the Chocolate Factory
+27627,203,151,4,True,Willy Wonka and the Chocolate Factory
+27630,214,151,5,True,Willy Wonka and the Chocolate Factory
+27648,49,151,5,True,Willy Wonka and the Chocolate Factory
+27655,150,151,4,True,Willy Wonka and the Chocolate Factory
+27656,24,151,5,True,Willy Wonka and the Chocolate Factory
+27659,297,151,3,False,Willy Wonka and the Chocolate Factory
+27660,198,151,4,True,Willy Wonka and the Chocolate Factory
+27665,314,151,4,True,Willy Wonka and the Chocolate Factory
+27682,52,151,5,True,Willy Wonka and the Chocolate Factory
+27692,46,151,4,True,Willy Wonka and the Chocolate Factory
+27695,345,151,5,True,Willy Wonka and the Chocolate Factory
+27698,348,151,3,False,Willy Wonka and the Chocolate Factory
+27699,354,151,3,False,Willy Wonka and the Chocolate Factory
+27704,373,151,4,True,Willy Wonka and the Chocolate Factory
+27725,416,151,3,False,Willy Wonka and the Chocolate Factory
+27726,417,151,5,True,Willy Wonka and the Chocolate Factory
+27732,437,151,5,True,Willy Wonka and the Chocolate Factory
+27751,490,151,1,False,Willy Wonka and the Chocolate Factory
+27752,434,151,5,True,Willy Wonka and the Chocolate Factory
+27757,496,151,3,False,Willy Wonka and the Chocolate Factory
+27761,505,151,3,False,Willy Wonka and the Chocolate Factory
+27764,525,151,5,True,Willy Wonka and the Chocolate Factory
+27774,541,151,3,False,Willy Wonka and the Chocolate Factory
+27784,588,151,4,True,Willy Wonka and the Chocolate Factory
+27788,601,151,3,False,Willy Wonka and the Chocolate Factory
+27790,618,151,3,False,Willy Wonka and the Chocolate Factory
+27791,620,151,4,True,Willy Wonka and the Chocolate Factory
+27796,642,151,3,False,Willy Wonka and the Chocolate Factory
+27800,654,151,4,True,Willy Wonka and the Chocolate Factory
+27807,657,151,4,True,Willy Wonka and the Chocolate Factory
+27809,674,151,2,False,Willy Wonka and the Chocolate Factory
+27817,708,151,4,True,Willy Wonka and the Chocolate Factory
+27821,711,151,4,True,Willy Wonka and the Chocolate Factory
+27822,705,151,3,False,Willy Wonka and the Chocolate Factory
+27838,764,151,4,True,Willy Wonka and the Chocolate Factory
+27851,805,151,5,True,Willy Wonka and the Chocolate Factory
+27862,854,151,4,True,Willy Wonka and the Chocolate Factory
+27863,859,151,2,False,Willy Wonka and the Chocolate Factory
+27870,872,151,2,False,Willy Wonka and the Chocolate Factory
+27882,887,151,5,True,Willy Wonka and the Chocolate Factory
+27885,907,151,4,True,Willy Wonka and the Chocolate Factory
+27892,922,151,5,True,Willy Wonka and the Chocolate Factory
+27896,921,151,3,False,Willy Wonka and the Chocolate Factory
+27902,930,151,2,False,Willy Wonka and the Chocolate Factory
+27904,62,64,4,True,"Shawshank Redemption, The"
+27950,128,64,5,True,"Shawshank Redemption, The"
+27956,43,64,5,True,"Shawshank Redemption, The"
+27965,214,64,5,True,"Shawshank Redemption, The"
+27972,230,64,5,True,"Shawshank Redemption, The"
+27978,262,64,5,True,"Shawshank Redemption, The"
+27984,24,64,5,True,"Shawshank Redemption, The"
+27986,198,64,4,True,"Shawshank Redemption, The"
+27989,253,64,5,True,"Shawshank Redemption, The"
+27990,175,64,5,True,"Shawshank Redemption, The"
+27993,314,64,5,True,"Shawshank Redemption, The"
+28013,96,64,5,True,"Shawshank Redemption, The"
+28026,345,64,5,True,"Shawshank Redemption, The"
+28031,373,64,4,True,"Shawshank Redemption, The"
+28043,405,64,5,True,"Shawshank Redemption, The"
+28047,416,64,5,True,"Shawshank Redemption, The"
+28049,417,64,5,True,"Shawshank Redemption, The"
+28073,496,64,3,False,"Shawshank Redemption, The"
+28092,601,64,4,True,"Shawshank Redemption, The"
+28094,618,64,4,True,"Shawshank Redemption, The"
+28102,630,64,5,True,"Shawshank Redemption, The"
+28103,642,64,5,True,"Shawshank Redemption, The"
+28119,679,64,4,True,"Shawshank Redemption, The"
+28128,711,64,4,True,"Shawshank Redemption, The"
+28129,705,64,5,True,"Shawshank Redemption, The"
+28130,721,64,4,True,"Shawshank Redemption, The"
+28144,764,64,5,True,"Shawshank Redemption, The"
+28157,854,64,5,True,"Shawshank Redemption, The"
+28175,875,64,5,True,"Shawshank Redemption, The"
+28185,930,64,4,True,"Shawshank Redemption, The"
+28230,128,25,3,False,"Birdcage, The"
+28233,43,25,5,True,"Birdcage, The"
+28246,230,25,3,False,"Birdcage, The"
+28253,49,25,2,False,"Birdcage, The"
+28254,223,25,1,False,"Birdcage, The"
+28255,274,25,5,True,"Birdcage, The"
+28259,270,25,5,True,"Birdcage, The"
+28262,24,25,4,True,"Birdcage, The"
+28265,297,25,4,True,"Birdcage, The"
+28266,198,25,2,False,"Birdcage, The"
+28275,314,25,3,False,"Birdcage, The"
+28286,159,25,5,True,"Birdcage, The"
+28288,52,25,5,True,"Birdcage, The"
+28299,345,25,3,False,"Birdcage, The"
+28302,342,25,2,False,"Birdcage, The"
+28303,348,25,4,True,"Birdcage, The"
+28304,354,25,2,False,"Birdcage, The"
+28309,373,25,4,True,"Birdcage, The"
+28324,416,25,4,True,"Birdcage, The"
+28325,417,25,2,False,"Birdcage, The"
+28353,477,25,5,True,"Birdcage, The"
+28355,525,25,5,True,"Birdcage, The"
+28375,555,25,4,True,"Birdcage, The"
+28378,588,25,4,True,"Birdcage, The"
+28382,618,25,2,False,"Birdcage, The"
+28392,630,25,2,False,"Birdcage, The"
+28397,654,25,1,False,"Birdcage, The"
+28402,674,25,4,True,"Birdcage, The"
+28409,698,25,2,False,"Birdcage, The"
+28410,708,25,3,False,"Birdcage, The"
+28413,711,25,4,True,"Birdcage, The"
+28421,735,25,4,True,"Birdcage, The"
+28425,751,25,5,True,"Birdcage, The"
+28430,764,25,2,False,"Birdcage, The"
+28438,805,25,4,True,"Birdcage, The"
+28440,726,25,4,True,"Birdcage, The"
+28448,854,25,3,False,"Birdcage, The"
+28449,859,25,4,True,"Birdcage, The"
+28452,822,25,3,False,"Birdcage, The"
+28464,887,25,2,False,"Birdcage, The"
+28466,907,25,5,True,"Birdcage, The"
+28473,917,25,4,True,"Birdcage, The"
+28474,921,25,3,False,"Birdcage, The"
+28517,128,143,5,True,"Sound of Music, The"
+28520,43,143,4,True,"Sound of Music, The"
+28529,230,143,5,True,"Sound of Music, The"
+28535,49,143,3,False,"Sound of Music, The"
+28536,223,143,4,True,"Sound of Music, The"
+28538,262,143,3,False,"Sound of Music, The"
+28545,297,143,5,True,"Sound of Music, The"
+28546,198,143,3,False,"Sound of Music, The"
+28547,314,143,5,True,"Sound of Music, The"
+28556,12,143,5,True,"Sound of Music, The"
+28567,345,143,5,True,"Sound of Music, The"
+28568,342,143,5,True,"Sound of Music, The"
+28569,354,143,4,True,"Sound of Music, The"
+28572,373,143,3,False,"Sound of Music, The"
+28580,405,143,5,True,"Sound of Music, The"
+28584,416,143,5,True,"Sound of Music, The"
+28588,437,143,5,True,"Sound of Music, The"
+28606,496,143,3,False,"Sound of Music, The"
+28616,541,143,4,True,"Sound of Music, The"
+28624,588,143,5,True,"Sound of Music, The"
+28627,601,143,3,False,"Sound of Music, The"
+28628,618,143,4,True,"Sound of Music, The"
+28634,642,143,5,True,"Sound of Music, The"
+28636,654,143,5,True,"Sound of Music, The"
+28644,679,143,2,False,"Sound of Music, The"
+28647,698,143,3,False,"Sound of Music, The"
+28652,711,143,5,True,"Sound of Music, The"
+28653,705,143,3,False,"Sound of Music, The"
+28654,712,143,5,True,"Sound of Music, The"
+28655,734,143,5,True,"Sound of Music, The"
+28659,751,143,5,True,"Sound of Music, The"
+28664,764,143,5,True,"Sound of Music, The"
+28675,805,143,3,False,"Sound of Music, The"
+28681,849,143,5,True,"Sound of Music, The"
+28691,887,143,5,True,"Sound of Music, The"
+28692,907,143,5,True,"Sound of Music, The"
+28696,922,143,4,True,"Sound of Music, The"
+28699,921,143,5,True,"Sound of Music, The"
+28700,930,143,2,False,"Sound of Music, The"
+28705,38,313,5,True,Titanic
+28712,32,313,4,True,Titanic
+28734,229,313,2,False,Titanic
+28748,43,313,5,True,Titanic
+28757,214,313,4,True,Titanic
+28768,49,313,3,False,Titanic
+28769,223,313,5,True,Titanic
+28770,126,313,5,True,Titanic
+28779,206,313,5,True,Titanic
+28787,304,313,5,True,Titanic
+28789,240,313,5,True,Titanic
+28796,258,313,5,True,Titanic
+28797,228,313,5,True,Titanic
+28802,241,313,4,True,Titanic
+28815,46,313,5,True,Titanic
+28818,345,313,4,True,Titanic
+28822,348,313,5,True,Titanic
+28825,354,313,3,False,Titanic
+28846,405,313,4,True,Titanic
+28852,416,313,5,True,Titanic
+28854,404,313,5,True,Titanic
+28884,462,313,5,True,Titanic
+28889,482,313,5,True,Titanic
+28892,505,313,5,True,Titanic
+28902,507,313,5,True,Titanic
+28909,550,313,5,True,Titanic
+28916,588,313,5,True,Titanic
+28925,618,313,4,True,Titanic
+28927,617,313,1,False,Titanic
+28929,620,313,5,True,Titanic
+28937,642,313,5,True,Titanic
+28942,631,313,4,True,Titanic
+28944,654,313,5,True,Titanic
+28955,674,313,5,True,Titanic
+28961,609,313,5,True,Titanic
+28964,708,313,5,True,Titanic
+28966,711,313,4,True,Titanic
+28969,646,313,5,True,Titanic
+28972,734,313,4,True,Titanic
+28978,751,313,2,False,Titanic
+28988,782,313,5,True,Titanic
+28991,787,313,5,True,Titanic
+29003,827,313,3,False,Titanic
+29013,859,313,5,True,Titanic
+29020,872,313,5,True,Titanic
+29032,907,313,5,True,Titanic
+29042,921,313,5,True,Titanic
+29056,38,88,5,True,Sleepless in Seattle
+29080,128,88,4,True,Sleepless in Seattle
+29083,43,88,5,True,Sleepless in Seattle
+29099,274,88,4,True,Sleepless in Seattle
+29104,270,88,5,True,Sleepless in Seattle
+29110,175,88,4,True,Sleepless in Seattle
+29112,314,88,5,True,Sleepless in Seattle
+29118,12,88,5,True,Sleepless in Seattle
+29130,345,88,4,True,Sleepless in Seattle
+29132,342,88,1,False,Sleepless in Seattle
+29133,354,88,2,False,Sleepless in Seattle
+29137,373,88,4,True,Sleepless in Seattle
+29146,405,88,3,False,Sleepless in Seattle
+29151,416,88,3,False,Sleepless in Seattle
+29154,437,88,3,False,Sleepless in Seattle
+29167,496,88,1,False,Sleepless in Seattle
+29173,505,88,4,True,Sleepless in Seattle
+29175,477,88,5,True,Sleepless in Seattle
+29181,541,88,3,False,Sleepless in Seattle
+29191,588,88,5,True,Sleepless in Seattle
+29194,618,88,4,True,Sleepless in Seattle
+29200,642,88,5,True,Sleepless in Seattle
+29218,711,88,5,True,Sleepless in Seattle
+29219,712,88,4,True,Sleepless in Seattle
+29226,751,88,4,True,Sleepless in Seattle
+29237,805,88,2,False,Sleepless in Seattle
+29257,904,88,3,False,Sleepless in Seattle
+29258,907,88,5,True,Sleepless in Seattle
+29302,230,515,5,True,"Boot, Das"
+29313,297,515,5,True,"Boot, Das"
+29338,354,515,3,False,"Boot, Das"
+29351,405,515,1,False,"Boot, Das"
+29355,416,515,5,True,"Boot, Das"
+29356,417,515,4,True,"Boot, Das"
+29371,490,515,3,False,"Boot, Das"
+29394,617,515,3,False,"Boot, Das"
+29411,698,515,4,True,"Boot, Das"
+29419,735,515,4,True,"Boot, Das"
+29429,782,515,3,False,"Boot, Das"
+29469,38,161,5,True,Top Gun
+29497,128,161,5,True,Top Gun
+29502,43,161,4,True,Top Gun
+29513,230,161,5,True,Top Gun
+29516,49,161,1,False,Top Gun
+29525,198,161,3,False,Top Gun
+29527,314,161,5,True,Top Gun
+29535,12,161,5,True,Top Gun
+29547,345,161,3,False,Top Gun
+29550,373,161,4,True,Top Gun
+29559,405,161,1,False,Top Gun
+29563,416,161,4,True,Top Gun
+29565,417,161,3,False,Top Gun
+29569,437,161,2,False,Top Gun
+29591,505,161,3,False,Top Gun
+29604,588,161,4,True,Top Gun
+29609,618,161,4,True,Top Gun
+29633,711,161,4,True,Top Gun
+29635,705,161,5,True,Top Gun
+29636,721,161,5,True,Top Gun
+29641,751,161,2,False,Top Gun
+29654,805,161,1,False,Top Gun
+29679,922,161,3,False,Top Gun
+29711,229,748,3,False,"Saint, The"
+29724,203,748,2,False,"Saint, The"
+29737,274,748,5,True,"Saint, The"
+29745,36,748,4,True,"Saint, The"
+29748,297,748,2,False,"Saint, The"
+29749,198,748,2,False,"Saint, The"
+29752,206,748,4,True,"Saint, The"
+29758,240,748,3,False,"Saint, The"
+29766,159,748,3,False,"Saint, The"
+29767,258,748,5,True,"Saint, The"
+29768,52,748,4,True,"Saint, The"
+29775,324,748,5,True,"Saint, The"
+29778,46,748,5,True,"Saint, The"
+29781,345,748,2,False,"Saint, The"
+29790,373,748,4,True,"Saint, The"
+29803,416,748,4,True,"Saint, The"
+29805,404,748,4,True,"Saint, The"
+29806,417,748,4,True,"Saint, The"
+29809,281,748,5,True,"Saint, The"
+29812,35,748,4,True,"Saint, The"
+29814,437,748,4,True,"Saint, The"
+29843,482,748,4,True,"Saint, The"
+29846,505,748,1,False,"Saint, The"
+29853,507,748,5,True,"Saint, The"
+29860,550,748,4,True,"Saint, The"
+29867,555,748,4,True,"Saint, The"
+29876,599,748,4,True,"Saint, The"
+29886,642,748,5,True,"Saint, The"
+29895,654,748,4,True,"Saint, The"
+29904,679,748,4,True,"Saint, The"
+29913,708,748,4,True,"Saint, The"
+29917,721,748,3,False,"Saint, The"
+29920,646,748,3,False,"Saint, The"
+29925,735,748,3,False,"Saint, The"
+29927,740,748,3,False,"Saint, The"
+29931,751,748,2,False,"Saint, The"
+29944,782,748,4,True,"Saint, The"
+29951,759,748,4,True,"Saint, The"
+29954,787,748,4,True,"Saint, The"
+29958,805,748,2,False,"Saint, The"
+29967,827,748,4,True,"Saint, The"
+29985,872,748,3,False,"Saint, The"
+29994,907,748,5,True,"Saint, The"
+30007,38,202,2,False,Groundhog Day
+30046,128,202,2,False,Groundhog Day
+30049,43,202,5,True,Groundhog Day
+30060,230,202,4,True,Groundhog Day
+30065,165,202,4,True,Groundhog Day
+30067,49,202,3,False,Groundhog Day
+30075,180,202,3,False,Groundhog Day
+30077,297,202,3,False,Groundhog Day
+30080,253,202,5,True,Groundhog Day
+30082,314,202,5,True,Groundhog Day
+30093,12,202,4,True,Groundhog Day
+30106,345,202,3,False,Groundhog Day
+30109,354,202,3,False,Groundhog Day
+30112,373,202,3,False,Groundhog Day
+30121,405,202,4,True,Groundhog Day
+30127,416,202,4,True,Groundhog Day
+30130,417,202,4,True,Groundhog Day
+30132,437,202,5,True,Groundhog Day
+30156,505,202,3,False,Groundhog Day
+30175,588,202,1,False,Groundhog Day
+30180,618,202,2,False,Groundhog Day
+30187,642,202,3,False,Groundhog Day
+30207,698,202,3,False,Groundhog Day
+30213,711,202,4,True,Groundhog Day
+30214,712,202,4,True,Groundhog Day
+30216,734,202,5,True,Groundhog Day
+30225,751,202,4,True,Groundhog Day
+30229,764,202,4,True,Groundhog Day
+30242,805,202,2,False,Groundhog Day
+30268,887,202,5,True,Groundhog Day
+30269,904,202,2,False,Groundhog Day
+30270,907,202,5,True,Groundhog Day
+30274,922,202,5,True,Groundhog Day
+30277,921,202,4,True,Groundhog Day
+30309,43,323,3,False,Dante's Peak
+30313,203,323,3,False,Dante's Peak
+30324,223,323,2,False,Dante's Peak
+30326,126,323,3,False,Dante's Peak
+30331,198,323,2,False,Dante's Peak
+30335,206,323,1,False,Dante's Peak
+30339,304,323,3,False,Dante's Peak
+30345,159,323,4,True,Dante's Peak
+30346,258,323,4,True,Dante's Peak
+30355,324,323,4,True,Dante's Peak
+30358,345,323,3,False,Dante's Peak
+30361,348,323,5,True,Dante's Peak
+30380,416,323,3,False,Dante's Peak
+30382,404,323,3,False,Dante's Peak
+30383,417,323,3,False,Dante's Peak
+30388,281,323,3,False,Dante's Peak
+30405,462,323,2,False,Dante's Peak
+30413,507,323,5,True,Dante's Peak
+30418,550,323,5,True,Dante's Peak
+30436,620,323,5,True,Dante's Peak
+30442,630,323,4,True,Dante's Peak
+30448,631,323,2,False,Dante's Peak
+30454,674,323,3,False,Dante's Peak
+30458,668,323,4,True,Dante's Peak
+30466,721,323,3,False,Dante's Peak
+30468,646,323,3,False,Dante's Peak
+30473,751,323,1,False,Dante's Peak
+30479,764,323,3,False,Dante's Peak
+30484,782,323,3,False,Dante's Peak
+30488,759,323,4,True,Dante's Peak
+30490,805,323,5,True,Dante's Peak
+30492,726,323,3,False,Dante's Peak
+30509,872,323,2,False,Dante's Peak
+30517,921,323,4,True,Dante's Peak
+30521,925,323,4,True,Dante's Peak
+30553,128,186,5,True,"Blues Brothers, The"
+30557,43,186,3,False,"Blues Brothers, The"
+30569,230,186,4,True,"Blues Brothers, The"
+30583,180,186,4,True,"Blues Brothers, The"
+30585,198,186,5,True,"Blues Brothers, The"
+30587,175,186,4,True,"Blues Brothers, The"
+30618,354,186,4,True,"Blues Brothers, The"
+30623,373,186,5,True,"Blues Brothers, The"
+30638,405,186,5,True,"Blues Brothers, The"
+30646,417,186,5,True,"Blues Brothers, The"
+30649,437,186,3,False,"Blues Brothers, The"
+30667,496,186,4,True,"Blues Brothers, The"
+30690,588,186,4,True,"Blues Brothers, The"
+30691,601,186,4,True,"Blues Brothers, The"
+30694,618,186,4,True,"Blues Brothers, The"
+30697,642,186,5,True,"Blues Brothers, The"
+30718,711,186,3,False,"Blues Brothers, The"
+30746,854,186,3,False,"Blues Brothers, The"
+30812,43,175,2,False,Brazil
+30817,214,175,5,True,Brazil
+30826,49,175,5,True,Brazil
+30834,297,175,4,True,Brazil
+30835,198,175,3,False,Brazil
+30836,253,175,2,False,Brazil
+30866,342,175,5,True,Brazil
+30867,354,175,5,True,Brazil
+30871,373,175,3,False,Brazil
+30880,405,175,1,False,Brazil
+30914,617,175,4,True,Brazil
+30933,698,175,3,False,Brazil
+30937,721,175,5,True,Brazil
+30954,805,175,5,True,Brazil
+30961,854,175,4,True,Brazil
+30974,922,175,3,False,Brazil
+30979,930,175,2,False,Brazil
+31007,43,289,4,True,Evita
+31022,49,289,4,True,Evita
+31023,223,289,1,False,Evita
+31024,126,289,3,False,Evita
+31027,36,289,2,False,Evita
+31028,24,289,3,False,Evita
+31037,240,289,4,True,Evita
+31044,159,289,2,False,Evita
+31047,258,289,2,False,Evita
+31057,324,289,5,True,Evita
+31059,345,289,3,False,Evita
+31060,342,289,2,False,Evita
+31067,376,289,3,False,Evita
+31077,416,289,3,False,Evita
+31079,404,289,1,False,Evita
+31084,281,289,3,False,Evita
+31102,490,289,1,False,Evita
+31106,462,289,5,True,Evita
+31108,482,289,3,False,Evita
+31110,477,289,5,True,Evita
+31113,525,289,3,False,Evita
+31133,588,289,2,False,Evita
+31149,631,289,4,True,Evita
+31152,674,289,2,False,Evita
+31154,668,289,2,False,Evita
+31159,708,289,4,True,Evita
+31162,721,289,3,False,Evita
+31167,735,289,1,False,Evita
+31169,740,289,4,True,Evita
+31176,732,289,3,False,Evita
+31179,764,289,5,True,Evita
+31185,782,289,3,False,Evita
+31201,827,289,3,False,Evita
+31204,813,289,4,True,Evita
+31206,854,289,2,False,Evita
+31225,887,289,5,True,Evita
+31226,904,289,5,True,Evita
+31228,875,289,4,True,Evita
+31232,917,289,4,True,Evita
+31270,128,197,4,True,"Graduate, The"
+31294,297,197,3,False,"Graduate, The"
+31295,198,197,4,True,"Graduate, The"
+31327,345,197,4,True,"Graduate, The"
+31328,342,197,4,True,"Graduate, The"
+31329,354,197,4,True,"Graduate, The"
+31333,373,197,3,False,"Graduate, The"
+31342,376,197,4,True,"Graduate, The"
+31346,405,197,4,True,"Graduate, The"
+31353,416,197,5,True,"Graduate, The"
+31356,437,197,5,True,"Graduate, The"
+31397,618,197,3,False,"Graduate, The"
+31424,711,197,4,True,"Graduate, The"
+31425,721,197,4,True,"Graduate, The"
+31434,751,197,3,False,"Graduate, The"
+31448,805,197,5,True,"Graduate, The"
+31457,854,197,4,True,"Graduate, The"
+31458,849,197,5,True,"Graduate, The"
+31546,297,194,3,False,"Sting, The"
+31561,96,194,2,False,"Sting, The"
+31574,342,194,3,False,"Sting, The"
+31578,373,194,4,True,"Sting, The"
+31590,405,194,1,False,"Sting, The"
+31595,416,194,5,True,"Sting, The"
+31666,698,194,4,True,"Sting, The"
+31670,721,194,5,True,"Sting, The"
+31677,751,194,5,True,"Sting, The"
+31695,854,194,3,False,"Sting, The"
+31716,921,194,3,False,"Sting, The"
+31764,230,435,4,True,Butch Cassidy and the Sundance Kid
+31774,297,435,3,False,Butch Cassidy and the Sundance Kid
+31790,96,435,3,False,Butch Cassidy and the Sundance Kid
+31804,354,435,4,True,Butch Cassidy and the Sundance Kid
+31809,373,435,4,True,Butch Cassidy and the Sundance Kid
+31820,405,435,1,False,Butch Cassidy and the Sundance Kid
+31833,437,435,3,False,Butch Cassidy and the Sundance Kid
+31850,505,435,3,False,Butch Cassidy and the Sundance Kid
+31888,698,435,3,False,Butch Cassidy and the Sundance Kid
+31891,721,435,4,True,Butch Cassidy and the Sundance Kid
+31967,128,603,5,True,Rear Window
+31973,214,603,4,True,Rear Window
+31979,270,603,5,True,Rear Window
+31982,297,603,5,True,Rear Window
+32009,354,603,5,True,Rear Window
+32013,373,603,4,True,Rear Window
+32019,376,603,4,True,Rear Window
+32021,405,603,3,False,Rear Window
+32027,416,603,5,True,Rear Window
+32031,437,603,5,True,Rear Window
+32093,698,603,4,True,Rear Window
+32099,734,603,4,True,Rear Window
+32108,751,603,4,True,Rear Window
+32118,805,603,4,True,Rear Window
+32125,854,603,4,True,Rear Window
+32137,904,603,4,True,Rear Window
+32139,875,603,4,True,Rear Window
+32144,921,603,3,False,Rear Window
+32148,38,211,1,False,M*A*S*H
+32175,43,211,4,True,M*A*S*H
+32185,230,211,5,True,M*A*S*H
+32190,274,211,5,True,M*A*S*H
+32198,297,211,4,True,M*A*S*H
+32230,354,211,2,False,M*A*S*H
+32233,373,211,4,True,M*A*S*H
+32240,405,211,1,False,M*A*S*H
+32245,416,211,5,True,M*A*S*H
+32247,417,211,4,True,M*A*S*H
+32250,437,211,4,True,M*A*S*H
+32304,698,211,2,False,M*A*S*H
+32343,875,211,5,True,M*A*S*H
+32384,128,427,5,True,To Kill a Mockingbird
+32389,214,427,5,True,To Kill a Mockingbird
+32392,230,427,5,True,To Kill a Mockingbird
+32396,262,427,4,True,To Kill a Mockingbird
+32400,24,427,5,True,To Kill a Mockingbird
+32402,198,427,4,True,To Kill a Mockingbird
+32404,253,427,5,True,To Kill a Mockingbird
+32413,52,427,5,True,To Kill a Mockingbird
+32414,228,427,4,True,To Kill a Mockingbird
+32425,342,427,4,True,To Kill a Mockingbird
+32427,373,427,4,True,To Kill a Mockingbird
+32434,376,427,4,True,To Kill a Mockingbird
+32436,405,427,5,True,To Kill a Mockingbird
+32442,416,427,5,True,To Kill a Mockingbird
+32471,541,427,4,True,To Kill a Mockingbird
+32485,601,427,4,True,To Kill a Mockingbird
+32488,618,427,5,True,To Kill a Mockingbird
+32490,617,427,4,True,To Kill a Mockingbird
+32495,642,427,3,False,To Kill a Mockingbird
+32509,698,427,1,False,To Kill a Mockingbird
+32514,711,427,5,True,To Kill a Mockingbird
+32515,705,427,2,False,To Kill a Mockingbird
+32545,849,427,4,True,To Kill a Mockingbird
+32554,887,427,5,True,To Kill a Mockingbird
+32556,907,427,5,True,To Kill a Mockingbird
+32562,922,427,5,True,To Kill a Mockingbird
+32573,38,200,5,True,"Shining, The"
+32616,49,200,3,False,"Shining, The"
+32617,274,200,4,True,"Shining, The"
+32618,262,200,3,False,"Shining, The"
+32621,270,200,5,True,"Shining, The"
+32624,24,200,5,True,"Shining, The"
+32626,297,200,3,False,"Shining, The"
+32627,198,200,4,True,"Shining, The"
+32629,253,200,4,True,"Shining, The"
+32636,12,200,1,False,"Shining, The"
+32639,96,200,5,True,"Shining, The"
+32648,345,200,4,True,"Shining, The"
+32658,372,200,5,True,"Shining, The"
+32661,366,200,5,True,"Shining, The"
+32662,405,200,2,False,"Shining, The"
+32668,416,200,5,True,"Shining, The"
+32669,417,200,4,True,"Shining, The"
+32675,437,200,4,True,"Shining, The"
+32705,618,200,5,True,"Shining, The"
+32706,617,200,5,True,"Shining, The"
+32725,711,200,4,True,"Shining, The"
+32732,764,200,4,True,"Shining, The"
+32745,805,200,5,True,"Shining, The"
+32752,854,200,5,True,"Shining, The"
+32763,887,200,1,False,"Shining, The"
+32767,922,200,3,False,"Shining, The"
+32775,925,200,2,False,"Shining, The"
+32777,38,678,5,True,Volcano
+32814,126,678,3,False,Volcano
+32821,297,678,3,False,Volcano
+32825,206,678,1,False,Volcano
+32835,159,678,5,True,Volcano
+32845,324,678,3,False,Volcano
+32849,345,678,2,False,Volcano
+32862,372,678,4,True,Volcano
+32867,416,678,2,False,Volcano
+32868,404,678,4,True,Volcano
+32873,35,678,3,False,Volcano
+32889,462,678,3,False,Volcano
+32897,507,678,5,True,Volcano
+32901,541,678,5,True,Volcano
+32909,588,678,2,False,Volcano
+32919,620,678,3,False,Volcano
+32928,654,678,4,True,Volcano
+32932,674,678,3,False,Volcano
+32940,708,678,2,False,Volcano
+32943,721,678,3,False,Volcano
+32945,646,678,3,False,Volcano
+32956,782,678,3,False,Volcano
+32959,759,678,2,False,Volcano
+32963,805,678,4,True,Volcano
+32989,921,678,5,True,Volcano
+32994,925,678,3,False,Volcano
+33014,43,301,5,True,In & Out
+33030,49,301,3,False,In & Out
+33035,297,301,4,True,In & Out
+33044,240,301,5,True,In & Out
+33049,159,301,2,False,In & Out
+33065,324,301,5,True,In & Out
+33069,345,301,4,True,In & Out
+33071,342,301,5,True,In & Out
+33081,376,301,3,False,In & Out
+33089,416,301,5,True,In & Out
+33090,404,301,3,False,In & Out
+33093,281,301,3,False,In & Out
+33095,437,301,3,False,In & Out
+33097,439,301,3,False,In & Out
+33117,482,301,4,True,In & Out
+33128,550,301,2,False,In & Out
+33132,555,301,4,True,In & Out
+33137,588,301,5,True,In & Out
+33154,631,301,4,True,In & Out
+33162,657,301,3,False,In & Out
+33172,711,301,4,True,In & Out
+33174,721,301,4,True,In & Out
+33176,735,301,3,False,In & Out
+33181,751,301,5,True,In & Out
+33193,782,301,3,False,In & Out
+33201,827,301,4,True,In & Out
+33216,907,301,4,True,In & Out
+33229,32,268,5,True,Chasing Amy
+33248,128,268,3,False,Chasing Amy
+33256,214,268,2,False,Chasing Amy
+33270,49,268,3,False,Chasing Amy
+33273,270,268,5,True,Chasing Amy
+33278,36,268,2,False,Chasing Amy
+33280,150,268,5,True,Chasing Amy
+33281,297,268,4,True,Chasing Amy
+33283,314,268,5,True,Chasing Amy
+33305,241,268,4,True,Chasing Amy
+33314,324,268,4,True,Chasing Amy
+33316,345,268,4,True,Chasing Amy
+33322,354,268,4,True,Chasing Amy
+33330,376,268,3,False,Chasing Amy
+33340,416,268,4,True,Chasing Amy
+33341,417,268,4,True,Chasing Amy
+33349,439,268,4,True,Chasing Amy
+33366,496,268,4,True,Chasing Amy
+33387,588,268,5,True,Chasing Amy
+33393,620,268,4,True,Chasing Amy
+33407,654,268,1,False,Chasing Amy
+33417,679,268,4,True,Chasing Amy
+33424,708,268,3,False,Chasing Amy
+33427,721,268,4,True,Chasing Amy
+33440,782,268,3,False,Chasing Amy
+33445,787,268,4,True,Chasing Amy
+33447,827,268,4,True,Chasing Amy
+33450,854,268,3,False,Chasing Amy
+33457,872,268,1,False,Chasing Amy
+33466,907,268,4,True,Chasing Amy
+33467,875,268,4,True,Chasing Amy
+33473,917,268,4,True,Chasing Amy
